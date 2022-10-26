@@ -294,6 +294,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 441853034}
     m_Modifications:
+    - target: {fileID: 5022703702958755877, guid: 0da600d002dc6404693c3b74e0265a3c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 37f6354679f3e1748b76a9221f51f4ac, type: 2}
     - target: {fileID: 6186233313534555122, guid: 0da600d002dc6404693c3b74e0265a3c, type: 3}
       propertyPath: m_Name
       value: PT_Medieval_Boy_Modular_Free_Pack
@@ -1878,6 +1882,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 441853034}
     m_Modifications:
+    - target: {fileID: 5022703702958755877, guid: 0da600d002dc6404693c3b74e0265a3c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 37f6354679f3e1748b76a9221f51f4ac, type: 2}
     - target: {fileID: 6186233313534555122, guid: 0da600d002dc6404693c3b74e0265a3c, type: 3}
       propertyPath: m_Name
       value: PT_Medieval_Boy_Modular_Free_Pack (1)
