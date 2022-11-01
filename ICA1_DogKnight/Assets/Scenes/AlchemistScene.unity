@@ -405,6 +405,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d321368a1f1e7a443bbe59d8e69f2a2e, type: 3}
+--- !u!1 &93617830 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8167691692296874598, guid: d321368a1f1e7a443bbe59d8e69f2a2e, type: 3}
+  m_PrefabInstance: {fileID: 93617829}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &128741247
 GameObject:
   m_ObjectHideFlags: 0
@@ -545,6 +550,35 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8167691692296910342, guid: d321368a1f1e7a443bbe59d8e69f2a2e, type: 3}
   m_PrefabInstance: {fileID: 93617829}
   m_PrefabAsset: {fileID: 0}
+--- !u!65 &152396024
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 93617830}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.37, y: 1.51, z: 1}
+  m_Center: {x: 0, y: 0.75, z: 0}
+--- !u!54 &152396025
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 93617830}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &155764403
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2054,7 +2088,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1086032898}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -2366,6 +2400,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 7c9f97b48ebe402f8604780c77cbdf89, type: 3}
       propertyPath: m_Name
       value: Jug_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 7c9f97b48ebe402f8604780c77cbdf89, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 7c9f97b48ebe402f8604780c77cbdf89, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2935,6 +2973,10 @@ PrefabInstance:
       value: Treasure_Chest_Base_02
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d1ed3dd810cc431299ee863fa4bd4f10, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d1ed3dd810cc431299ee863fa4bd4f10, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -3003,6 +3045,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: f5cdd3ff716a4dfcbd14104d703672f5, type: 3}
       propertyPath: m_Name
       value: Jug_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: f5cdd3ff716a4dfcbd14104d703672f5, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: f5cdd3ff716a4dfcbd14104d703672f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3964,6 +4010,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2123955066}
+  - component: {fileID: 2123955067}
   m_Layer: 0
   m_Name: Furniture
   m_TagString: Untagged
@@ -4001,6 +4048,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &2123955067
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2123955065}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &2133188973
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4227,3 +4287,21 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 7966d979d9982a743a30e3b75a402b94, type: 3}
   m_PrefabInstance: {fileID: 2141307659}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2141307661 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 7966d979d9982a743a30e3b75a402b94, type: 3}
+  m_PrefabInstance: {fileID: 2141307659}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &2141307662
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2141307661}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.42, y: 3.81, z: 1}
+  m_Center: {x: 0, y: 1.94, z: 0}

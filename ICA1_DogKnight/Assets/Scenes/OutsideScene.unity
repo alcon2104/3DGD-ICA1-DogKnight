@@ -107,8 +107,8 @@ NavMeshSettings:
     serializedVersion: 2
     agentTypeID: 0
     agentRadius: 0.5
-    agentHeight: 2
-    agentSlope: 45
+    agentHeight: 5
+    agentSlope: 45.6
     agentClimb: 0.4
     ledgeDropHeight: 0
     maxJumpAcrossDistance: 0
@@ -133,6 +133,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Wall_Top_01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_RootOrder
@@ -203,6 +207,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 5166d739d26f73246a2623515169479e, type: 3}
       propertyPath: m_Name
       value: Tree Type3 01
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 5166d739d26f73246a2623515169479e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5166d739d26f73246a2623515169479e, type: 3}
       propertyPath: m_RootOrder
@@ -281,6 +289,10 @@ PrefabInstance:
     - target: {fileID: 142018, guid: d537224908c5f444f86c9e57e0c7234c, type: 3}
       propertyPath: m_Name
       value: Tree Type0 03 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 142018, guid: d537224908c5f444f86c9e57e0c7234c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 423888, guid: d537224908c5f444f86c9e57e0c7234c, type: 3}
       propertyPath: m_RootOrder
@@ -490,6 +502,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree Type0 03 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 142018, guid: d537224908c5f444f86c9e57e0c7234c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 423888, guid: d537224908c5f444f86c9e57e0c7234c, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -551,6 +567,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 68218c07874adef4fbe8100958fd9117, type: 3}
       propertyPath: m_Name
       value: Tree Type3 02
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 68218c07874adef4fbe8100958fd9117, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 68218c07874adef4fbe8100958fd9117, type: 3}
       propertyPath: m_RootOrder
@@ -636,7 +656,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 30
   m_IsActive: 1
 --- !u!65 &265594328
 BoxCollider:
@@ -775,6 +795,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PP_Rock_Pile_Forest_Moss_05
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0ba9b7cecd675b45894beca57389899, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0ba9b7cecd675b45894beca57389899, type: 3}
 --- !u!1001 &329112155
@@ -850,6 +874,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Rockwall_Straight_01_Snow (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 127242, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 465814, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -923,6 +951,10 @@ PrefabInstance:
     - target: {fileID: 1596872523515200, guid: dea84a3662be77b4bad1db42d2b32262, type: 3}
       propertyPath: m_Name
       value: Mushroom1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1596872523515200, guid: dea84a3662be77b4bad1db42d2b32262, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 127
       objectReference: {fileID: 0}
     - target: {fileID: 4100683814371560, guid: dea84a3662be77b4bad1db42d2b32262, type: 3}
       propertyPath: m_RootOrder
@@ -1040,6 +1072,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d321368a1f1e7a443bbe59d8e69f2a2e, type: 3}
+--- !u!1 &384278952 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8167691692296874598, guid: d321368a1f1e7a443bbe59d8e69f2a2e, type: 3}
+  m_PrefabInstance: {fileID: 384278951}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &406117812
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1050,6 +1087,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 0ddb82da3485fac4dbfe187acb70a610, type: 3}
       propertyPath: m_Name
       value: Tree Type1 04 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 0ddb82da3485fac4dbfe187acb70a610, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0ddb82da3485fac4dbfe187acb70a610, type: 3}
       propertyPath: m_RootOrder
@@ -1116,6 +1157,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Wall_Top_01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_RootOrder
@@ -1265,7 +1310,7 @@ GameObject:
   - component: {fileID: 578241700}
   m_Layer: 0
   m_Name: Barrels
-  m_TagString: Untagged
+  m_TagString: Breakable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1297,6 +1342,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 9ddce011fb3cf3341b8c252c9b00cb4c, type: 3}
       propertyPath: m_Name
       value: Tree Type4 01
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 9ddce011fb3cf3341b8c252c9b00cb4c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9ddce011fb3cf3341b8c252c9b00cb4c, type: 3}
       propertyPath: m_RootOrder
@@ -1375,6 +1424,10 @@ PrefabInstance:
     - target: {fileID: 142018, guid: d537224908c5f444f86c9e57e0c7234c, type: 3}
       propertyPath: m_Name
       value: Tree Type0 03
+      objectReference: {fileID: 0}
+    - target: {fileID: 142018, guid: d537224908c5f444f86c9e57e0c7234c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 423888, guid: d537224908c5f444f86c9e57e0c7234c, type: 3}
       propertyPath: m_RootOrder
@@ -1456,7 +1509,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 93577c981283f6b40bfce8d93f15b684, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 56.3855
+      value: 56.24
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 93577c981283f6b40bfce8d93f15b684, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1497,6 +1550,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 93577c981283f6b40bfce8d93f15b684, type: 3}
       propertyPath: m_Name
       value: Env_Field_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93577c981283f6b40bfce8d93f15b684, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 93577c981283f6b40bfce8d93f15b684, type: 3}
@@ -1576,6 +1633,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Grave_6 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1e0375b692eb8fb4d8af8ea36dd58264, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1e0375b692eb8fb4d8af8ea36dd58264, type: 3}
 --- !u!4 &677939472 stripped
@@ -1597,7 +1658,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 22
   m_IsActive: 1
 --- !u!4 &695667706
 Transform:
@@ -1701,6 +1762,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Rock1
       objectReference: {fileID: 0}
+    - target: {fileID: 1562119382739742, guid: c07f24e35f07ce74ba43afa35d48adf7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 4243724423293762, guid: c07f24e35f07ce74ba43afa35d48adf7, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -1761,7 +1826,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 22
   m_IsActive: 1
 --- !u!4 &739631106
 Transform:
@@ -1903,6 +1968,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree Type0 03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 142018, guid: d537224908c5f444f86c9e57e0c7234c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 423888, guid: d537224908c5f444f86c9e57e0c7234c, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -2009,6 +2078,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree004_V4
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4a716c92f3abb6146873b676c3d8ce4f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a716c92f3abb6146873b676c3d8ce4f, type: 3}
 --- !u!4 &798074164 stripped
@@ -2100,6 +2173,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 9d83f5800933bfc489906d234261d5e4, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Wall_Gate_01_Snow
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 9d83f5800933bfc489906d234261d5e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9d83f5800933bfc489906d234261d5e4, type: 3}
       propertyPath: m_RootOrder
@@ -2257,7 +2334,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 904929100}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -2325,6 +2402,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 1e97612a294865943926d93961f9c229, type: 3}
       propertyPath: m_Name
       value: Tree Type5 03
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1e97612a294865943926d93961f9c229, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1e97612a294865943926d93961f9c229, type: 3}
       propertyPath: m_RootOrder
@@ -2537,6 +2618,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: ab93b9e9098824b4490cfebb1783128e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Flagpole_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: ab93b9e9098824b4490cfebb1783128e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ab93b9e9098824b4490cfebb1783128e, type: 3}
       propertyPath: m_RootOrder
@@ -2809,6 +2894,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mushroom1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1596872523515200, guid: dea84a3662be77b4bad1db42d2b32262, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 127
+      objectReference: {fileID: 0}
     - target: {fileID: 4100683814371560, guid: dea84a3662be77b4bad1db42d2b32262, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -2870,6 +2959,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Wall_Top_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_RootOrder
@@ -2940,6 +3033,10 @@ PrefabInstance:
     - target: {fileID: 127242, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Rockwall_Straight_01_Snow (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 127242, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 465814, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
       propertyPath: m_RootOrder
@@ -3074,6 +3171,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 413b3a96097358545977edfa24bc2744, type: 3}
       propertyPath: m_Name
       value: Props_Mushroom_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 413b3a96097358545977edfa24bc2744, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 413b3a96097358545977edfa24bc2744, type: 3}
@@ -3219,6 +3320,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PP_Forest_Mountain_Moss_01
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d818648c1b009ab48a03dbcc4ae09583, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d818648c1b009ab48a03dbcc4ae09583, type: 3}
 --- !u!1001 &1303983160
@@ -3231,6 +3336,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 468f6350f64b1994da26ff44a4deaa89, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Round_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 468f6350f64b1994da26ff44a4deaa89, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 468f6350f64b1994da26ff44a4deaa89, type: 3}
       propertyPath: m_RootOrder
@@ -3310,6 +3419,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Round_01
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 468f6350f64b1994da26ff44a4deaa89, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 468f6350f64b1994da26ff44a4deaa89, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -3388,6 +3501,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Wall_Top_01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -3457,6 +3574,10 @@ PrefabInstance:
     - target: {fileID: 1596872523515200, guid: dea84a3662be77b4bad1db42d2b32262, type: 3}
       propertyPath: m_Name
       value: Mushroom1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1596872523515200, guid: dea84a3662be77b4bad1db42d2b32262, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 127
       objectReference: {fileID: 0}
     - target: {fileID: 4100683814371560, guid: dea84a3662be77b4bad1db42d2b32262, type: 3}
       propertyPath: m_RootOrder
@@ -3594,6 +3715,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Round_Top_01
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: bcc82dd7fe0e7fc47821146530414b6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bcc82dd7fe0e7fc47821146530414b6a, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -3666,6 +3791,35 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8167691692296910342, guid: d321368a1f1e7a443bbe59d8e69f2a2e, type: 3}
   m_PrefabInstance: {fileID: 384278951}
   m_PrefabAsset: {fileID: 0}
+--- !u!54 &1467481225
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384278952}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &1467481226
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384278952}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.51, y: 1.48, z: 1}
+  m_Center: {x: 0, y: 0.82, z: 0}
 --- !u!1001 &1484116291
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4152,6 +4306,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree004_V6
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 297b10068ee81e14c9a4b4c3fae88775, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 297b10068ee81e14c9a4b4c3fae88775, type: 3}
 --- !u!4 &1544763084 stripped
@@ -4169,6 +4327,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 1e97612a294865943926d93961f9c229, type: 3}
       propertyPath: m_Name
       value: Tree Type5 03 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1e97612a294865943926d93961f9c229, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1e97612a294865943926d93961f9c229, type: 3}
       propertyPath: m_RootOrder
@@ -4433,6 +4595,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree Type1 04
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 0ddb82da3485fac4dbfe187acb70a610, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0ddb82da3485fac4dbfe187acb70a610, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -4505,7 +4671,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 30
   m_IsActive: 1
 --- !u!65 &1620104724
 BoxCollider:
@@ -4596,6 +4762,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree Type5 03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1e97612a294865943926d93961f9c229, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1e97612a294865943926d93961f9c229, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -4661,6 +4831,26 @@ PrefabInstance:
     - target: {fileID: 100000, guid: b6aa70d22c31d124d839f7a4e821e341, type: 3}
       propertyPath: m_Name
       value: Shroom_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b6aa70d22c31d124d839f7a4e821e341, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: b6aa70d22c31d124d839f7a4e821e341, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b6aa70d22c31d124d839f7a4e821e341, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: b6aa70d22c31d124d839f7a4e821e341, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100008, guid: b6aa70d22c31d124d839f7a4e821e341, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b6aa70d22c31d124d839f7a4e821e341, type: 3}
       propertyPath: m_RootOrder
@@ -4728,6 +4918,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree Type0 03 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 142018, guid: d537224908c5f444f86c9e57e0c7234c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 423888, guid: d537224908c5f444f86c9e57e0c7234c, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -4790,6 +4984,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mushroom1
       objectReference: {fileID: 0}
+    - target: {fileID: 1596872523515200, guid: dea84a3662be77b4bad1db42d2b32262, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 127
+      objectReference: {fileID: 0}
     - target: {fileID: 4100683814371560, guid: dea84a3662be77b4bad1db42d2b32262, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -4851,6 +5049,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 0ddb82da3485fac4dbfe187acb70a610, type: 3}
       propertyPath: m_Name
       value: Tree Type1 04 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 0ddb82da3485fac4dbfe187acb70a610, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0ddb82da3485fac4dbfe187acb70a610, type: 3}
       propertyPath: m_RootOrder
@@ -4917,6 +5119,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: bcc82dd7fe0e7fc47821146530414b6a, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Round_Top_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: bcc82dd7fe0e7fc47821146530414b6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bcc82dd7fe0e7fc47821146530414b6a, type: 3}
       propertyPath: m_RootOrder
@@ -5074,6 +5280,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree Type1 04 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 0ddb82da3485fac4dbfe187acb70a610, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0ddb82da3485fac4dbfe187acb70a610, type: 3}
       propertyPath: m_RootOrder
       value: 14
@@ -5139,6 +5349,26 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 68cda060b749c3f4ab26daa34818fbdb, type: 3}
       propertyPath: m_Name
       value: Shroom_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 68cda060b749c3f4ab26daa34818fbdb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 68cda060b749c3f4ab26daa34818fbdb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: 68cda060b749c3f4ab26daa34818fbdb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: 68cda060b749c3f4ab26daa34818fbdb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100008, guid: 68cda060b749c3f4ab26daa34818fbdb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 68cda060b749c3f4ab26daa34818fbdb, type: 3}
       propertyPath: m_RootOrder
@@ -5408,6 +5638,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree Type1 04 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 0ddb82da3485fac4dbfe187acb70a610, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0ddb82da3485fac4dbfe187acb70a610, type: 3}
       propertyPath: m_RootOrder
       value: 18
@@ -5622,6 +5856,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree Type1 04 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 0ddb82da3485fac4dbfe187acb70a610, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0ddb82da3485fac4dbfe187acb70a610, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -5765,6 +6003,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 96e7bed35648db84d90692e794c9dcb2, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Iron_Gate_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 96e7bed35648db84d90692e794c9dcb2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 96e7bed35648db84d90692e794c9dcb2, type: 3}
       propertyPath: m_RootOrder
@@ -6027,6 +6269,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Grave_6
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1e0375b692eb8fb4d8af8ea36dd58264, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1e0375b692eb8fb4d8af8ea36dd58264, type: 3}
 --- !u!4 &1992734056 stripped
@@ -6044,6 +6290,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: d508de2584ef7734aa500f5c47210151, type: 3}
       propertyPath: m_Name
       value: Tree Type6 01
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d508de2584ef7734aa500f5c47210151, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d508de2584ef7734aa500f5c47210151, type: 3}
       propertyPath: m_RootOrder
@@ -6122,6 +6372,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: df1b55231d0f07744a3d1a9ec9652e1d, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Flag_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: df1b55231d0f07744a3d1a9ec9652e1d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: df1b55231d0f07744a3d1a9ec9652e1d, type: 3}
       propertyPath: m_RootOrder
@@ -6607,6 +6861,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 1e0375b692eb8fb4d8af8ea36dd58264, type: 3}
       propertyPath: m_Name
       value: Props_Grave_6 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1e0375b692eb8fb4d8af8ea36dd58264, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1e0375b692eb8fb4d8af8ea36dd58264, type: 3}

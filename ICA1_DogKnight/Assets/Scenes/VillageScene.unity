@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Wall_Top_01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -282,6 +286,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Rockwall_Straight_01_Snow (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 127242, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 465814, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -355,6 +363,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 96e7bed35648db84d90692e794c9dcb2, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Iron_Gate_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 96e7bed35648db84d90692e794c9dcb2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 96e7bed35648db84d90692e794c9dcb2, type: 3}
       propertyPath: m_RootOrder
@@ -476,6 +488,11 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 89852af4089794c4eac64300d5068b9c, type: 3}
   m_PrefabInstance: {fileID: 123754706}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &143723656 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8167691692296874598, guid: d321368a1f1e7a443bbe59d8e69f2a2e, type: 3}
+  m_PrefabInstance: {fileID: 8167691690846346142}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &155996612
 GameObject:
@@ -602,8 +619,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 197742785}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.47829628, y: 59.77357, z: 139.96147}
-  m_LocalScale: {x: 5, y: -0.29, z: 10}
+  m_LocalPosition: {x: 0.47829, y: 59, z: 115.54}
+  m_LocalScale: {x: 312.78323, y: -0.29, z: 124.06304}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 433981425}
@@ -619,6 +636,10 @@ PrefabInstance:
     - target: {fileID: 127242, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Rockwall_Straight_01_Snow (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 127242, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 465814, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
       propertyPath: m_RootOrder
@@ -945,6 +966,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 222550182}
   m_CullTransparentMesh: 1
+--- !u!1 &269389217 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: dedf4c9070954c6478ba2435d3dc93a9, type: 3}
+  m_PrefabInstance: {fileID: 1565355597}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &284330809
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1324,6 +1350,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Castle_Flagpole_01
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: ab93b9e9098824b4490cfebb1783128e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ab93b9e9098824b4490cfebb1783128e, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -1378,6 +1408,16 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: ab93b9e9098824b4490cfebb1783128e, type: 3}
   m_PrefabInstance: {fileID: 361507027}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &368114292 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 1e97612a294865943926d93961f9c229, type: 3}
+  m_PrefabInstance: {fileID: 397119861}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &383025049 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 7966d979d9982a743a30e3b75a402b94, type: 3}
+  m_PrefabInstance: {fileID: 1167468019}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &397119861
 PrefabInstance:
@@ -1457,6 +1497,19 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 1e97612a294865943926d93961f9c229, type: 3}
   m_PrefabInstance: {fileID: 397119861}
   m_PrefabAsset: {fileID: 0}
+--- !u!65 &397119866
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 368114292}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.0981777, y: 6.390037, z: 2.610139}
+  m_Center: {x: -0.23159026, y: 3.1950274, z: -0.08329355}
 --- !u!1001 &406939117
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1732,7 +1785,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 30
   m_IsActive: 1
 --- !u!4 &433981425
 Transform:
@@ -1894,6 +1947,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Wall_Top_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -1992,7 +2049,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 469341076}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -2060,6 +2117,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 468f6350f64b1994da26ff44a4deaa89, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Round_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 468f6350f64b1994da26ff44a4deaa89, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 468f6350f64b1994da26ff44a4deaa89, type: 3}
       propertyPath: m_RootOrder
@@ -2403,6 +2464,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Wall_Top_01 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -2461,6 +2526,11 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
   m_PrefabInstance: {fileID: 569777033}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &597069444 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100002, guid: a5ba35198e685724baca75f5ad7d0c1d, type: 3}
+  m_PrefabInstance: {fileID: 1501696676}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &601130589
 PrefabInstance:
@@ -2590,6 +2660,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Wall_Top_01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_RootOrder
@@ -2765,6 +2839,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Rockwall_Straight_01_Snow (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 127242, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 465814, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -2917,6 +2995,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Wall_Top_01 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_RootOrder
       value: 18
@@ -2987,6 +3069,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Rockwall_Straight_01_Snow (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 127242, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 465814, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -3049,6 +3135,11 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 465814, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
   m_PrefabInstance: {fileID: 815275742}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &821281165 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: d508de2584ef7734aa500f5c47210151, type: 3}
+  m_PrefabInstance: {fileID: 1741194745}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &841125003
 PrefabInstance:
@@ -3127,6 +3218,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Wall_Top_01
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -3186,6 +3281,24 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
   m_PrefabInstance: {fileID: 867625952}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &872025806 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 7966d979d9982a743a30e3b75a402b94, type: 3}
+  m_PrefabInstance: {fileID: 758078987}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &872025808
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 872025806}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.69, y: 4.14, z: 1}
+  m_Center: {x: 0, y: 2.05, z: 0}
 --- !u!1001 &877788679
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3407,6 +3520,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Round_Top_01
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: bcc82dd7fe0e7fc47821146530414b6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bcc82dd7fe0e7fc47821146530414b6a, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -3614,6 +3731,24 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 8dadf092146619244a1a1c1e1c791d89, type: 3}
   m_PrefabInstance: {fileID: 934855824}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &938716000 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 1c39e1e2eb456124d9a089789cad93f0, type: 3}
+  m_PrefabInstance: {fileID: 20053501}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &938716003
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 938716000}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.058242, y: 1.058452, z: 3.0809782}
+  m_Center: {x: -0.0000064969054, y: 0.3899272, z: -0.0000057220454}
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -3691,7 +3826,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0.0046241134, y: -0.9413874, z: 0.33704546, w: 0.012994653}
-  m_LocalPosition: {x: 16.643982, y: 19.194824, z: 8.10759}
+  m_LocalPosition: {x: 16.71, y: 19.71, z: 10.39}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3707,6 +3842,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 963757995}
+  - component: {fileID: 963757996}
   m_Layer: 0
   m_Name: Lamps
   m_TagString: Untagged
@@ -3735,6 +3871,19 @@ Transform:
   m_Father: {fileID: 1950702813}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &963757996
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963757994}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &976154595
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3812,6 +3961,11 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: b87a1d41b3b03024285c7c26ead1e093, type: 3}
   m_PrefabInstance: {fileID: 976154595}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &983880686 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: dfc4e20908058584c86dd5af0ca65d59, type: 3}
+  m_PrefabInstance: {fileID: 1848942917}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &994670862
 PrefabInstance:
@@ -3956,6 +4110,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Wall_Top_01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -4024,12 +4182,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1071536636}
+  - component: {fileID: 1071536637}
   m_Layer: 0
   m_Name: Towers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 22
   m_IsActive: 1
 --- !u!4 &1071536636
 Transform:
@@ -4050,6 +4209,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1071536637
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1071536635}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &1140197267
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4060,6 +4232,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Wall_Top_01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_RootOrder
@@ -4198,6 +4374,19 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 7966d979d9982a743a30e3b75a402b94, type: 3}
   m_PrefabInstance: {fileID: 1167468019}
   m_PrefabAsset: {fileID: 0}
+--- !u!65 &1167468022
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 383025049}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.99, y: 3.98, z: 1}
+  m_Center: {x: 0, y: 1.91, z: 0}
 --- !u!1001 &1178904105
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4216,6 +4405,10 @@ PrefabInstance:
     - target: {fileID: 100004, guid: 3348730844142bb44afc1878594ad4aa, type: 3}
       propertyPath: m_Name
       value: The Gallows Final
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: 3348730844142bb44afc1878594ad4aa, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3348730844142bb44afc1878594ad4aa, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4294,6 +4487,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 468f6350f64b1994da26ff44a4deaa89, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Round_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 468f6350f64b1994da26ff44a4deaa89, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 468f6350f64b1994da26ff44a4deaa89, type: 3}
       propertyPath: m_RootOrder
@@ -4439,6 +4636,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Round_Top_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: bcc82dd7fe0e7fc47821146530414b6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bcc82dd7fe0e7fc47821146530414b6a, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -4516,6 +4717,10 @@ PrefabInstance:
     - target: {fileID: 127242, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Rockwall_Straight_01_Snow (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 127242, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 465814, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
       propertyPath: m_RootOrder
@@ -4657,6 +4862,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Wall_Top_01 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_RootOrder
       value: 14
@@ -4716,6 +4925,24 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
   m_PrefabInstance: {fileID: 1257942130}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1266200943 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 7966d979d9982a743a30e3b75a402b94, type: 3}
+  m_PrefabInstance: {fileID: 340496403}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1266200945
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1266200943}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.88, y: 3.98, z: 1}
+  m_Center: {x: 0, y: 1.88, z: 0}
 --- !u!1001 &1269438210
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4791,9 +5018,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1288492760}
+  - component: {fileID: 1288492761}
   m_Layer: 0
   m_Name: Barrels
-  m_TagString: Untagged
+  m_TagString: Breakable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4822,6 +5050,19 @@ Transform:
   m_Father: {fileID: 1950702813}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1288492761
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1288492759}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1337054169
 GameObject:
   m_ObjectHideFlags: 0
@@ -4930,6 +5171,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Wall_Top_01 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_RootOrder
       value: 16
@@ -4989,6 +5234,24 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
   m_PrefabInstance: {fileID: 1344001891}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1368324861 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 9ddce011fb3cf3341b8c252c9b00cb4c, type: 3}
+  m_PrefabInstance: {fileID: 337615660}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1368324865
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1368324861}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8671477, y: 3.2138174, z: 2.052555}
+  m_Center: {x: -0.15151393, y: 1.5861124, z: -0.0946514}
 --- !u!1001 &1407832551
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4999,6 +5262,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Wall_Top_01 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_RootOrder
@@ -5059,6 +5326,37 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
   m_PrefabInstance: {fileID: 1407832551}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1408523194 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 8dadf092146619244a1a1c1e1c791d89, type: 3}
+  m_PrefabInstance: {fileID: 934855824}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1408523197
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1408523194}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.225498, y: 2.0372412, z: 3.8814623}
+  m_Center: {x: -1.5283757, y: 1.0186206, z: 1.9165744}
+--- !u!65 &1408523198
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1408523194}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.225498, y: 2.0372412, z: 3.8814623}
+  m_Center: {x: -1.5283757, y: 1.0186206, z: 1.9165744}
 --- !u!1001 &1433384995
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5069,6 +5367,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Wall_Top_01 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_RootOrder
@@ -5139,6 +5441,10 @@ PrefabInstance:
     - target: {fileID: 127242, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Rockwall_Straight_01_Snow (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 127242, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 465814, guid: 3723d64fc927cf64dbe02ccedc32cfc9, type: 3}
       propertyPath: m_RootOrder
@@ -5357,6 +5663,19 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: a5ba35198e685724baca75f5ad7d0c1d, type: 3}
   m_PrefabInstance: {fileID: 1501696676}
   m_PrefabAsset: {fileID: 0}
+--- !u!65 &1501696678
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 597069444}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &1513980488
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5434,6 +5753,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Leanto_01
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d89873f8ec956f84f81a0e61e82e0b76, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 20
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d89873f8ec956f84f81a0e61e82e0b76, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -5501,6 +5824,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: d89873f8ec956f84f81a0e61e82e0b76, type: 3}
   m_PrefabInstance: {fileID: 1516979373}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1533420393 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6186233313534555122, guid: 0da600d002dc6404693c3b74e0265a3c, type: 3}
+  m_PrefabInstance: {fileID: 2021293786}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1539431671
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5511,6 +5839,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Wall_Top_01 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_RootOrder
@@ -5685,6 +6017,19 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: dedf4c9070954c6478ba2435d3dc93a9, type: 3}
   m_PrefabInstance: {fileID: 1565355597}
   m_PrefabAsset: {fileID: 0}
+--- !u!65 &1565355601
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 269389217}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.5219829, y: 1.6909008, z: 3.2154639}
+  m_Center: {x: 0.000005811453, y: 0.84545803, z: -0.00001335144}
 --- !u!1001 &1577939270
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5695,6 +6040,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 9d83f5800933bfc489906d234261d5e4, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Wall_Gate_01_Snow
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 9d83f5800933bfc489906d234261d5e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9d83f5800933bfc489906d234261d5e4, type: 3}
       propertyPath: m_RootOrder
@@ -5760,12 +6109,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1586024135}
+  - component: {fileID: 1586024136}
   m_Layer: 0
   m_Name: Gate
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 22
   m_IsActive: 1
 --- !u!4 &1586024135
 Transform:
@@ -5786,6 +6136,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1586024136
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1586024134}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1629700448
 GameObject:
   m_ObjectHideFlags: 0
@@ -5795,12 +6158,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1629700449}
+  - component: {fileID: 1629700450}
   m_Layer: 0
   m_Name: Walls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 22
   m_IsActive: 1
 --- !u!4 &1629700449
 Transform:
@@ -5837,6 +6201,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1629700450
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1629700448}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &1659306635
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5918,6 +6295,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fancy_Tavern
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 1411cafb8ec702541957a85180719650, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 20
+      objectReference: {fileID: 0}
     - target: {fileID: 100004, guid: 1411cafb8ec702541957a85180719650, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 22
@@ -5995,6 +6376,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: df1b55231d0f07744a3d1a9ec9652e1d, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Flag_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: df1b55231d0f07744a3d1a9ec9652e1d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: df1b55231d0f07744a3d1a9ec9652e1d, type: 3}
       propertyPath: m_RootOrder
@@ -6207,12 +6592,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1731736540}
+  - component: {fileID: 1731736541}
   m_Layer: 0
   m_Name: TownBuildings
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 22
   m_IsActive: 1
 --- !u!4 &1731736540
 Transform:
@@ -6233,6 +6619,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1731736541
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1731736539}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &1735966416
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6377,11 +6776,53 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: d508de2584ef7734aa500f5c47210151, type: 3}
   m_PrefabInstance: {fileID: 1741194745}
   m_PrefabAsset: {fileID: 0}
+--- !u!65 &1741194750
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 821281165}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.6874526, y: 2.0015604, z: 1.3746012}
+  m_Center: {x: -0.07769335, y: 0.9405126, z: -0.17092644}
 --- !u!4 &1770813221 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8167691692296910342, guid: d321368a1f1e7a443bbe59d8e69f2a2e, type: 3}
   m_PrefabInstance: {fileID: 8167691690846346142}
   m_PrefabAsset: {fileID: 0}
+--- !u!54 &1770813225
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 143723656}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &1770813226
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 143723656}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &1803039721
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6521,6 +6962,24 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: b87a1d41b3b03024285c7c26ead1e093, type: 3}
   m_PrefabInstance: {fileID: 1824996259}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1830769378 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 5166d739d26f73246a2623515169479e, type: 3}
+  m_PrefabInstance: {fileID: 284330809}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1830769382
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1830769378}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.818955, y: 2.8632913, z: 1.6040084}
+  m_Center: {x: -0.1454202, y: 1.4102424, z: -0.16418996}
 --- !u!1001 &1848942917
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6599,6 +7058,19 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: dfc4e20908058584c86dd5af0ca65d59, type: 3}
   m_PrefabInstance: {fileID: 1848942917}
   m_PrefabAsset: {fileID: 0}
+--- !u!65 &1848942923
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 983880686}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.2583616, y: 3.8249578, z: 1.7343957}
+  m_Center: {x: 0.021913081, y: 1.9124807, z: 0.25993803}
 --- !u!1001 &1850225715
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6770,6 +7242,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_House_Window_02
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 15cdd02bffdbc104da9658cddcc3fc1a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 20
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 15cdd02bffdbc104da9658cddcc3fc1a, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -6846,9 +7322,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1882191123}
+  - component: {fileID: 1882191124}
   m_Layer: 0
   m_Name: Bags+Pots
-  m_TagString: Untagged
+  m_TagString: Breakable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6873,6 +7350,19 @@ Transform:
   m_Father: {fileID: 1950702813}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1882191124
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1882191122}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &1891420587
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6949,6 +7439,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Castle_Tower_Wall_Top_01 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 435e8c972d08d9443b362d312219c818, type: 3}
       propertyPath: m_RootOrder
@@ -7168,6 +7662,24 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1963655971 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 61fccfd1f35b8e043ae9237f1515c44d, type: 3}
+  m_PrefabInstance: {fileID: 882707975}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1963655974
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1963655971}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.992265, y: 3.2585301, z: 2.1818042}
+  m_Center: {x: 0.000010460615, y: 1.6292579, z: -0.0000037252903}
 --- !u!1001 &1981526302
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7246,6 +7758,24 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: eea6ae49518e8d848bd66403a4975fc0, type: 3}
   m_PrefabInstance: {fileID: 1981526302}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1995069740 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 15cdd02bffdbc104da9658cddcc3fc1a, type: 3}
+  m_PrefabInstance: {fileID: 1875720020}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1995069743
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1995069740}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8263167, y: 2.1134653, z: 1.9329815}
+  m_Center: {x: 0.0000012516971, y: 1.0567328, z: -0.03343878}
 --- !u!4 &2020014992 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 06d9366f487453c4dae7c49cf614a85c, type: 3}
@@ -7325,6 +7855,19 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6814573785498937672, guid: 0da600d002dc6404693c3b74e0265a3c, type: 3}
   m_PrefabInstance: {fileID: 2021293786}
   m_PrefabAsset: {fileID: 0}
+--- !u!65 &2021293789
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1533420393}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1.44, z: 1}
+  m_Center: {x: 0, y: 0.76, z: 0}
 --- !u!4 &2043228704 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 8cee49ed56bd74f4387339e128eeaef9, type: 3}
@@ -7609,6 +8152,40 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 12c46a590583857498500b48cf9c896f, type: 3}
   m_PrefabInstance: {fileID: 2091175161}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2092652468 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8167691692296874900, guid: d321368a1f1e7a443bbe59d8e69f2a2e, type: 3}
+  m_PrefabInstance: {fileID: 8167691690846346142}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &2092652470
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2092652468}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.76, y: 1.2200516, z: 1.5075306}
+  m_Center: {x: 0.0000019967556, y: 0.179293, z: 0.7022633}
+--- !u!54 &2092652471
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2092652468}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &2110194817
 PrefabInstance:
   m_ObjectHideFlags: 0
