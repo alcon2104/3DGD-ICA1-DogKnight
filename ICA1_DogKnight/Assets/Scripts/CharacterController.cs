@@ -5,7 +5,6 @@ public class CharacterController : MonoBehaviour
 {
     public Camera camera;
     public NavMeshAgent player;
-    public GameObject targetDest;
 
     // Update is called once per frame
     void Update()
@@ -17,7 +16,6 @@ public class CharacterController : MonoBehaviour
             
             if(Physics.Raycast(ray, out hitPoint))
             {
-                targetDest.transform.position = hitPoint.point;
                 player.SetDestination(hitPoint.point);
             }
         }
