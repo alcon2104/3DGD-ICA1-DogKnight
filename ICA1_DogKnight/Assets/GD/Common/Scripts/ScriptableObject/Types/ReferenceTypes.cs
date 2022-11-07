@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.Events;
 
 /// <summary>
 /// Contains a set of ScriptableObject(SO) data types (float, int, bool) and reference types that can switch between a local variable (e.g float) or reference to a shared variable (e.g. FloatVariable)
@@ -10,13 +11,30 @@ namespace GD
     [System.Serializable]
     public abstract class ScriptableDataType<T> : ScriptableGameObject
     {
+        //event that is triggered when this object changes
+        //public UnityEvent<string> OnChanged;  list, boolean made
+
+        //BEST WAY TO DO EVENTS
+        public GameEvent OnChanged;
+
         [Header("Value")]
         [ContextMenuItem("Reset Value", "ResetValue")]
         public T Value;
 
+        public void Set(T value)
+        {
+            OnChanged.Raise();
+            Value = value;
+        }
+
         public virtual void ResetValue()
         {
-            Value = default(T);
+            Set(default(T));
+        }
+
+        public bool Equals(T other)
+        {
+            return Value.Equals(other);
         }
     }
 

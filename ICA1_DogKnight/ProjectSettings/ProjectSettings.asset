@@ -698,12 +698,12 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
-  cloudProjectId: 
+  activeInputHandler: 2
+  cloudProjectId: 3b299f5c-0f72-424e-abc7-c98b71cf1fd1
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: ICA1_DogKnight
+  organizationId: alcon2104
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
