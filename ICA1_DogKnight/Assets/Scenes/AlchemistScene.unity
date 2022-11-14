@@ -135,8 +135,12 @@ PrefabInstance:
       value: Candlestick_Floor_02
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 88e9d05fa43f45b882d6206fd89efa34, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 88e9d05fa43f45b882d6206fd89efa34, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 22
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 88e9d05fa43f45b882d6206fd89efa34, type: 3}
       propertyPath: m_RootOrder
@@ -675,8 +679,12 @@ PrefabInstance:
       value: Cupboard_05
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 5b10a84c1b90486da055a7f5381ffde4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 5b10a84c1b90486da055a7f5381ffde4, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 22
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5b10a84c1b90486da055a7f5381ffde4, type: 3}
       propertyPath: m_RootOrder
@@ -1447,8 +1455,12 @@ PrefabInstance:
       value: Bench_Wooden_01 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 8dee37a21a8c41ce95e83999b8e45bee, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 8dee37a21a8c41ce95e83999b8e45bee, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 22
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8dee37a21a8c41ce95e83999b8e45bee, type: 3}
       propertyPath: m_RootOrder
@@ -2353,8 +2365,12 @@ PrefabInstance:
       value: Cupboard_03
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: b3963507da3a446d92940ed66527ad81, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b3963507da3a446d92940ed66527ad81, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 22
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b3963507da3a446d92940ed66527ad81, type: 3}
       propertyPath: m_RootOrder
@@ -2487,8 +2503,12 @@ PrefabInstance:
       value: Table_01
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: c77e93927a994db29897bf81338ed5ac, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c77e93927a994db29897bf81338ed5ac, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 22
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c77e93927a994db29897bf81338ed5ac, type: 3}
       propertyPath: m_RootOrder
@@ -2794,8 +2814,12 @@ PrefabInstance:
       value: Bench_Wooden_01
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 8dee37a21a8c41ce95e83999b8e45bee, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 8dee37a21a8c41ce95e83999b8e45bee, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 22
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8dee37a21a8c41ce95e83999b8e45bee, type: 3}
       propertyPath: m_RootOrder
@@ -2882,8 +2906,12 @@ PrefabInstance:
       value: Cupboard_03 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: b3963507da3a446d92940ed66527ad81, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b3963507da3a446d92940ed66527ad81, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 22
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b3963507da3a446d92940ed66527ad81, type: 3}
       propertyPath: m_RootOrder
@@ -2970,8 +2998,12 @@ PrefabInstance:
       value: Chair_01
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 970176150adc40e29c812bb7823d307a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 970176150adc40e29c812bb7823d307a, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 22
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 970176150adc40e29c812bb7823d307a, type: 3}
       propertyPath: m_RootOrder
@@ -3155,8 +3187,12 @@ PrefabInstance:
       value: Ladder_01
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 9d437e4208214630b6aa7de04ca1a2b5, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 9d437e4208214630b6aa7de04ca1a2b5, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 22
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9d437e4208214630b6aa7de04ca1a2b5, type: 3}
       propertyPath: m_RootOrder
@@ -3675,7 +3711,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d1ed3dd810cc431299ee863fa4bd4f10, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 0
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d1ed3dd810cc431299ee863fa4bd4f10, type: 3}
       propertyPath: m_RootOrder
@@ -4180,8 +4216,12 @@ PrefabInstance:
       value: Table_01 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: c77e93927a994db29897bf81338ed5ac, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c77e93927a994db29897bf81338ed5ac, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 22
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c77e93927a994db29897bf81338ed5ac, type: 3}
       propertyPath: m_RootOrder

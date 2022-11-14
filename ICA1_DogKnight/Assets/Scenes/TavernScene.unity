@@ -2538,8 +2538,12 @@ PrefabInstance:
       value: Fireplace_01
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: eca2fcac997383d46a335444395759a7, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: eca2fcac997383d46a335444395759a7, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 22
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: eca2fcac997383d46a335444395759a7, type: 3}
       propertyPath: m_RootOrder
@@ -5257,8 +5261,12 @@ PrefabInstance:
       value: Wall_01 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d1036e9bede007244859666e135887a1, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d1036e9bede007244859666e135887a1, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 22
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d1036e9bede007244859666e135887a1, type: 3}
       propertyPath: m_RootOrder
@@ -8356,8 +8364,12 @@ PrefabInstance:
     m_TransformParent: {fileID: 1939026667}
     m_Modifications:
     - target: {fileID: 100000, guid: a16d561c7bcb80347b12bb431e80ff84, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: a16d561c7bcb80347b12bb431e80ff84, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 22
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: a16d561c7bcb80347b12bb431e80ff84, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9242,8 +9254,12 @@ PrefabInstance:
     m_TransformParent: {fileID: 1939026667}
     m_Modifications:
     - target: {fileID: 100000, guid: a16d561c7bcb80347b12bb431e80ff84, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: a16d561c7bcb80347b12bb431e80ff84, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 22
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: a16d561c7bcb80347b12bb431e80ff84, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -10601,8 +10617,12 @@ PrefabInstance:
       value: Wall_01 (4)
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d1036e9bede007244859666e135887a1, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d1036e9bede007244859666e135887a1, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 22
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d1036e9bede007244859666e135887a1, type: 3}
       propertyPath: m_RootOrder
@@ -11061,8 +11081,12 @@ PrefabInstance:
       value: bar_02_mod
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 924c107f09deb1f4ab749b503bbe93cb, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 924c107f09deb1f4ab749b503bbe93cb, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 22
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 924c107f09deb1f4ab749b503bbe93cb, type: 3}
       propertyPath: m_RootOrder
@@ -11144,8 +11168,12 @@ PrefabInstance:
     m_TransformParent: {fileID: 1939026667}
     m_Modifications:
     - target: {fileID: 100000, guid: a16d561c7bcb80347b12bb431e80ff84, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: a16d561c7bcb80347b12bb431e80ff84, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 22
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: a16d561c7bcb80347b12bb431e80ff84, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -11543,8 +11571,12 @@ PrefabInstance:
       value: bar_02_mod (1)
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 924c107f09deb1f4ab749b503bbe93cb, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 924c107f09deb1f4ab749b503bbe93cb, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 22
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 924c107f09deb1f4ab749b503bbe93cb, type: 3}
       propertyPath: m_RootOrder
