@@ -28,9 +28,9 @@ namespace GD
         [Tooltip("Overrides the volume set in any audio mixer with this value")]
         private float overrideVolume;  //Would a FloatReference be useful here? Why?
 
-        /*[Header("Visuals")]
+        [Header("Visuals")]
         [Header("Post-processing")]
-        [SerializeField] private VolumeProfile defaultPostProcessProfile;*/
+        [SerializeField] private VolumeProfile defaultPostProcessProfile;
 
         public string Name
         {
