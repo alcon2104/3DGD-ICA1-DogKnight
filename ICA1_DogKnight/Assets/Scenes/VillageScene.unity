@@ -1246,7 +1246,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Actions: {fileID: -944628639613478452, guid: 92475ce13dd76364ab0c141a9101e49f, type: 3}
-  m_NotificationBehavior: 0
+  m_NotificationBehavior: 2
   m_UIInputModule: {fileID: 0}
   m_DeviceLostEvent:
     m_PersistentCalls:
@@ -1257,7 +1257,39 @@ MonoBehaviour:
   m_ControlsChangedEvent:
     m_PersistentCalls:
       m_Calls: []
-  m_ActionEvents: []
+  m_ActionEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 289349201}
+        m_TargetAssemblyTypeName: GD.Controllers.DogNavigationController, Assembly-CSharp
+        m_MethodName: OnSelectPlayer
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_ActionId: 0ff63a06-8af8-4ad0-8456-76a4fcbe783f
+    m_ActionName: StandardControls/SelectPlayer[/Mouse/leftButton]
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 289349201}
+        m_TargetAssemblyTypeName: GD.Controllers.DogNavigationController, Assembly-CSharp
+        m_MethodName: OnSelectWaypoint
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_ActionId: c573bcd7-4da0-4dac-943d-901f28cecd33
+    m_ActionName: StandardControls/SelectWaypoint[/Mouse/rightButton]
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
   m_DefaultActionMap: StandardControls
@@ -1296,7 +1328,7 @@ NavMeshAgent:
   m_AutoBraking: 1
   m_AutoRepath: 1
   m_Height: 2
-  m_BaseOffset: 0.1
+  m_BaseOffset: 0
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
 --- !u!114 &289349198
@@ -1329,7 +1361,7 @@ MonoBehaviour:
   layerMask:
     serializedVersion: 2
     m_Bits: 0
-  maxDistance: 20
+  maxDistance: 100
 --- !u!4 &289349200 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2066896392038131574, guid: 45288819fde2143449a96207b14db0bb, type: 3}
@@ -1347,10 +1379,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef5fef3b9d96800458082ee35fb638ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectionPrefab: {fileID: 0}
-  waypointPrefab: {fileID: 0}
+  selectionPrefab: {fileID: 1451139264933024470, guid: 301cf0605b8dccb488810320c4ff117b, type: 3}
+  waypointPrefab: {fileID: 3255632558425602682, guid: 2e86de529518e824aa71b6bcfb1a06e8, type: 3}
   sceneAnchor: {fileID: 2104918179}
-  currentlySelectedGameObject: {fileID: 0}
+  currentlySelectedGameObject: {fileID: 11400000, guid: 0815a213af69f3246be282964cfb5cd1, type: 2}
 --- !u!54 &289349202
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3265,6 +3297,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DogPolyart
       objectReference: {fileID: 0}
+    - target: {fileID: 2066896392038628118, guid: 45288819fde2143449a96207b14db0bb, type: 3}
+      propertyPath: m_TagString
+      value: Selectable
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45288819fde2143449a96207b14db0bb, type: 3}
 --- !u!1001 &799462805
@@ -3846,6 +3882,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WaypointMarker
       objectReference: {fileID: 0}
+    - target: {fileID: 3255632558425602682, guid: 2e86de529518e824aa71b6bcfb1a06e8, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8029719858774014842, guid: 2e86de529518e824aa71b6bcfb1a06e8, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -4240,8 +4280,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.0046241134, y: -0.9413874, z: 0.33704546, w: 0.012994653}
-  m_LocalPosition: {x: 16.71, y: 19.71, z: 10.39}
+  m_LocalRotation: {x: 0.001462064, y: -0.9506881, z: 0.31011164, w: 0.0045680855}
+  m_LocalPosition: {x: 16.361677, y: 14.616771, z: 9.542522}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5550,28 +5590,14 @@ GameObject:
   - component: {fileID: 1337054173}
   - component: {fileID: 1337054172}
   - component: {fileID: 1337054171}
-  - component: {fileID: 1337054170}
   - component: {fileID: 1337054174}
   m_Layer: 0
   m_Name: Cube
-  m_TagString: Untagged
+  m_TagString: Selectable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 30
+  m_StaticEditorFlags: 8
   m_IsActive: 1
---- !u!65 &1337054170
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1337054169}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!23 &1337054171
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5637,8 +5663,8 @@ Transform:
   m_Father: {fileID: 433981425}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!65 &1337054174
-BoxCollider:
+--- !u!64 &1337054174
+MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -5647,9 +5673,10 @@ BoxCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 0.99999994, z: 1}
-  m_Center: {x: -0.000000029802322, y: -0.000008583069, z: -0.00000014901161}
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1001 &1344001891
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7619,6 +7646,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SelectionMarker
       objectReference: {fileID: 0}
+    - target: {fileID: 1451139264933024470, guid: 301cf0605b8dccb488810320c4ff117b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1451139264933024471, guid: 301cf0605b8dccb488810320c4ff117b, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -9228,6 +9259,10 @@ PrefabInstance:
     - target: {fileID: 425660, guid: 58ac37417e60e534f91138088a3e6f70, type: 3}
       propertyPath: m_RootOrder
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 425660, guid: 58ac37417e60e534f91138088a3e6f70, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 425660, guid: 58ac37417e60e534f91138088a3e6f70, type: 3}
       propertyPath: m_LocalPosition.x

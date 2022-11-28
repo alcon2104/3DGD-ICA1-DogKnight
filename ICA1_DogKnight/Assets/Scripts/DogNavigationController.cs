@@ -1,5 +1,6 @@
 using GD.ScriptableTypes;
 using GD.Selection;
+using System;
 using System.Net.Mime;
 using UnityEngine;
 using UnityEngine.AI;
@@ -55,6 +56,8 @@ namespace GD.Controllers
         /// <param name="context"></param>
         public void OnSelectPlayer(InputAction.CallbackContext context)
         {
+
+            
             //if player is selected and we click and select a different player
             if (currentlySelectedGameObject.Value != null
                 && currentlySelectedGameObject.Value != gameObject)
@@ -75,6 +78,7 @@ namespace GD.Controllers
         /// <param name="context"></param>
         public void OnSelectWaypoint(InputAction.CallbackContext context)
         {
+            Debug.Log("We in this.");
             //if a player is selected then determine destination
             if (isSelected)
                 ClickDestination();
