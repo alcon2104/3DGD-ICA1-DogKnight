@@ -978,6 +978,7 @@ GameObject:
   m_Component:
   - component: {fileID: 352052295}
   - component: {fileID: 352052296}
+  - component: {fileID: 352052297}
   m_Layer: 0
   m_Name: Wall Light (1)
   m_TagString: Untagged
@@ -1062,6 +1063,23 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!114 &352052297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 352052294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b854f7bc804d9ac47ab5907e0a59d8b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  flickering: 1
+  intensityMin: 8.43
+  intensityMax: 10
+  minTimeDelaySecs: 2.11
+  maxTimeDelaySecs: 4
 --- !u!1001 &363905915
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1145,6 +1163,7 @@ GameObject:
   m_Component:
   - component: {fileID: 367814933}
   - component: {fileID: 367814934}
+  - component: {fileID: 367814935}
   m_Layer: 0
   m_Name: Wall Light
   m_TagString: Untagged
@@ -1229,6 +1248,23 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!114 &367814935
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 367814932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b854f7bc804d9ac47ab5907e0a59d8b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  flickering: 1
+  intensityMin: 8.43
+  intensityMax: 10
+  minTimeDelaySecs: 2.11
+  maxTimeDelaySecs: 4
 --- !u!1001 &383150671
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4752,6 +4788,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1837011984}
   - component: {fileID: 1837011985}
+  - component: {fileID: 1837011986}
   m_Layer: 0
   m_Name: Candlestick Light
   m_TagString: Untagged
@@ -4836,6 +4873,23 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!114 &1837011986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1837011983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b854f7bc804d9ac47ab5907e0a59d8b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  flickering: 1
+  intensityMin: 8.43
+  intensityMax: 10
+  minTimeDelaySecs: 2.11
+  maxTimeDelaySecs: 4
 --- !u!1 &1857020258
 GameObject:
   m_ObjectHideFlags: 0
@@ -4846,6 +4900,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1857020259}
   - component: {fileID: 1857020260}
+  - component: {fileID: 1857020261}
   m_Layer: 0
   m_Name: Wall Light (2)
   m_TagString: Untagged
@@ -4930,6 +4985,23 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!114 &1857020261
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1857020258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b854f7bc804d9ac47ab5907e0a59d8b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  flickering: 1
+  intensityMin: 8.43
+  intensityMax: 10
+  minTimeDelaySecs: 2.11
+  maxTimeDelaySecs: 4
 --- !u!1001 &1869154496
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5517,6 +5589,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2093731334}
   - component: {fileID: 2093731335}
+  - component: {fileID: 2093731336}
   m_Layer: 0
   m_Name: Candlestick Light (1)
   m_TagString: Untagged
@@ -5601,6 +5674,23 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!114 &2093731336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2093731333}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b854f7bc804d9ac47ab5907e0a59d8b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  flickering: 1
+  intensityMin: 8.43
+  intensityMax: 10
+  minTimeDelaySecs: 2.11
+  maxTimeDelaySecs: 4
 --- !u!1 &2123955065
 GameObject:
   m_ObjectHideFlags: 0
