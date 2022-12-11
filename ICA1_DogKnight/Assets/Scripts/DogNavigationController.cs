@@ -1,6 +1,7 @@
 using GD.ScriptableTypes;
 using GD.Selection;
 using System;
+using System.Collections;
 using System.Net.Mime;
 using UnityEngine;
 using UnityEngine.AI;
@@ -35,12 +36,23 @@ namespace GD.Controllers
         [Tooltip("A scriptable object which holds a reference to the currently selected character")]
         private GameObjectVariable currentlySelectedGameObject;
 
+        [SerializeField] 
+        private float animationFinishTime = 0.9f;
+
         private Animator animator;
         private NavMeshAgent navMeshAgent;
         private IRayProvider rayProvider;
         private ISelector selector;
         private RaycastHit hitInfo;
         private bool isSelected;
+        private bool isAttacking = false;
+        private PlayerInput inputActions;
+
+        private void Awake()
+        {
+            inputActions = new PlayerInput();
+            inputActions.Player.Attack.performed += context => Attack();
+        }
 
         private void Start()
         {
@@ -48,6 +60,21 @@ namespace GD.Controllers
             rayProvider = GetComponent<IRayProvider>();
             selector = GetComponent<ISelector>();
             animator = GetComponent<Animator>();
+        }
+
+        void Attack()
+        {
+            if(!isAttacking)
+            {
+                animator.SetTrigger("isAttacking");
+                StartCoroutine(InitialiseAttack());
+            }
+        }
+
+        IEnumerator InitialiseAttack()
+        {
+            yield return new WaitForSeconds(0.1f);
+            isAttacking = true;
         }
 
         /// <summary>
@@ -94,6 +121,11 @@ namespace GD.Controllers
             {
                 ClearWaypoint();
                 animator.SetBool("IsWalking", false);
+            }
+
+            if(isAttacking && animator.GetCurrentAnimatorStateInfo(1).normalizedTime >= animationFinishTime)
+            {
+                isAttacking = false;
             }
         }
 

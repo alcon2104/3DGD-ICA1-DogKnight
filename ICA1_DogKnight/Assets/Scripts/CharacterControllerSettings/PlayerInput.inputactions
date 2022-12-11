@@ -2,7 +2,7 @@
     "name": "PlayerInput",
     "maps": [
         {
-            "name": "StandardControls",
+            "name": "Player",
             "id": "4c9445a4-013c-42d0-8651-abbcc246e56f",
             "actions": [
                 {
@@ -21,6 +21,15 @@
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "Tap,SlowTap",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Attack",
+                    "type": "Button",
+                    "id": "5876677e-4a48-4229-a184-c91fd20d6540",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
                     "initialStateCheck": false
                 }
             ],
@@ -44,6 +53,17 @@
                     "processors": "",
                     "groups": "",
                     "action": "SelectWaypoint",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "15d95b3e-4efb-4847-abbd-2f735aec5085",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
