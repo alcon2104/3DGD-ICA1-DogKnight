@@ -1,8 +1,6 @@
 using GD.ScriptableTypes;
 using GD.Selection;
-using System;
 using System.Collections;
-using System.Net.Mime;
 using UnityEngine;
 using UnityEngine.AI;
 using UnityEngine.InputSystem;
@@ -39,19 +37,25 @@ namespace GD.Controllers
         [SerializeField] 
         private float animationFinishTime = 0.9f;
 
+        [SerializeField]
+        private PlayerInput inputActions;
+
+        private InputAction attack;
         private Animator animator;
         private NavMeshAgent navMeshAgent;
         private IRayProvider rayProvider;
         private ISelector selector;
         private RaycastHit hitInfo;
         private bool isSelected;
-        //private bool isAttacking = false;
-       // private PlayerInput inputActions;
+        private bool isAttacking = false;
 
         private void Awake()
         {
-            //inputActions = new PlayerInput();
-            //inputActions.Player.Attack.performed += context => Attack();
+            var gameplayActionMap = inputActions.currentActionMap;
+
+            attack = gameplayActionMap.FindAction("Attack");
+
+            attack.performed += context => Attack();
         }
 
         private void Start()
@@ -62,20 +66,20 @@ namespace GD.Controllers
             animator = GetComponent<Animator>();
         }
 
-        //void Attack()
-        //{
-        //    if(!isAttacking)
-        //    {
-        //        animator.SetTrigger("isAttacking");
-        //        StartCoroutine(InitialiseAttack());
-        //    }
-        //}
+        void Attack()
+        {
+            if (!isAttacking)
+            {
+                animator.SetTrigger("isAttacking");
+                StartCoroutine(InitialiseAttack());
+            }
+        }
 
-        //IEnumerator InitialiseAttack()
-        //{
-        //    yield return new WaitForSeconds(0.1f);
-        //    isAttacking = true;
-        //}
+        IEnumerator InitialiseAttack()
+        {
+            yield return new WaitForSeconds(0.1f);
+            isAttacking = true;
+        }
 
         /// <summary>
         /// Called when a player selects the on-screen player avatar
@@ -120,10 +124,10 @@ namespace GD.Controllers
                 animator.SetBool("isWalking", false);
             }
 
-            //if(isAttacking && animator.GetCurrentAnimatorStateInfo(1).normalizedTime >= animationFinishTime)
-            //{
-            //    isAttacking = false;
-            //}
+            if (isAttacking && animator.GetCurrentAnimatorStateInfo(1).normalizedTime >= animationFinishTime)
+            {
+                isAttacking = false;
+            }
         }
 
         #region Actions -  Set/Clear destination and waypoint
