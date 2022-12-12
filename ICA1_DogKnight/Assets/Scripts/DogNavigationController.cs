@@ -45,13 +45,13 @@ namespace GD.Controllers
         private ISelector selector;
         private RaycastHit hitInfo;
         private bool isSelected;
-        private bool isAttacking = false;
-        private PlayerInput inputActions;
+        //private bool isAttacking = false;
+       // private PlayerInput inputActions;
 
         private void Awake()
         {
-            inputActions = new PlayerInput();
-            inputActions.Player.Attack.performed += context => Attack();
+            //inputActions = new PlayerInput();
+            //inputActions.Player.Attack.performed += context => Attack();
         }
 
         private void Start()
@@ -62,20 +62,20 @@ namespace GD.Controllers
             animator = GetComponent<Animator>();
         }
 
-        void Attack()
-        {
-            if(!isAttacking)
-            {
-                animator.SetTrigger("isAttacking");
-                StartCoroutine(InitialiseAttack());
-            }
-        }
+        //void Attack()
+        //{
+        //    if(!isAttacking)
+        //    {
+        //        animator.SetTrigger("isAttacking");
+        //        StartCoroutine(InitialiseAttack());
+        //    }
+        //}
 
-        IEnumerator InitialiseAttack()
-        {
-            yield return new WaitForSeconds(0.1f);
-            isAttacking = true;
-        }
+        //IEnumerator InitialiseAttack()
+        //{
+        //    yield return new WaitForSeconds(0.1f);
+        //    isAttacking = true;
+        //}
 
         /// <summary>
         /// Called when a player selects the on-screen player avatar
@@ -83,8 +83,6 @@ namespace GD.Controllers
         /// <param name="context"></param>
         public void OnSelectPlayer(InputAction.CallbackContext context)
         {
-
-            
             //if player is selected and we click and select a different player
             if (currentlySelectedGameObject.Value != null
                 && currentlySelectedGameObject.Value != gameObject)
@@ -120,13 +118,13 @@ namespace GD.Controllers
                 <= navMeshAgent.stoppingDistance)
             {
                 ClearWaypoint();
-                animator.SetBool("IsWalking", false);
+                animator.SetBool("isWalking", false);
             }
 
-            if(isAttacking && animator.GetCurrentAnimatorStateInfo(1).normalizedTime >= animationFinishTime)
-            {
-                isAttacking = false;
-            }
+            //if(isAttacking && animator.GetCurrentAnimatorStateInfo(1).normalizedTime >= animationFinishTime)
+            //{
+            //    isAttacking = false;
+            //}
         }
 
         #region Actions -  Set/Clear destination and waypoint
@@ -152,7 +150,7 @@ namespace GD.Controllers
                 SetDestination(hitInfo.point);
                 SetWaypoint();
                 SetSelected(false);
-                animator.SetBool("IsWalking", true);
+                animator.SetBool("isWalking", true);
             }
         }
 
