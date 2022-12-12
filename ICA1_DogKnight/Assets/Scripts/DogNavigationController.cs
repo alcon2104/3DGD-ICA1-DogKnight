@@ -103,7 +103,6 @@ namespace GD.Controllers
         /// <param name="context"></param>
         public void OnSelectWaypoint(InputAction.CallbackContext context)
         {
-            Debug.Log("We in this.");
             //if a player is selected then determine destination
             if (isSelected)
                 ClickDestination();
