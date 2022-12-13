@@ -9,6 +9,9 @@ public class PauseMenu : MonoBehaviour
     public static bool IsPaused = false;
     public GameObject pauseMenuUI;
 
+    [SerializeField]
+    private GameObject menuCamera;
+
     // Update is called once per frame
     void Update()
     {
@@ -28,6 +31,7 @@ public class PauseMenu : MonoBehaviour
     public void Resume()
     {
         pauseMenuUI.SetActive(false);
+        menuCamera.SetActive(false);
         Time.timeScale = 1f;
         IsPaused = false;
     }
@@ -35,6 +39,7 @@ public class PauseMenu : MonoBehaviour
     private void Pause()
     {
         pauseMenuUI.SetActive(true);
+        menuCamera.SetActive(true);
         Time.timeScale = 0f;
         IsPaused = true;
     }
