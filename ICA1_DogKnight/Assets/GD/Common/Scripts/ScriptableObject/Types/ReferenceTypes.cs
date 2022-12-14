@@ -12,9 +12,7 @@ namespace GD
     public abstract class ScriptableDataType<T> : ScriptableGameObject
     {
         //event that is triggered when this object changes
-        //public UnityEvent<string> OnChanged;  list, boolean made
-
-        //BEST WAY TO DO EVENTS
+        //public UnityEvent<string> OnChanged;  //list, boolean
         public GameEvent OnChanged;
 
         [Header("Value")]

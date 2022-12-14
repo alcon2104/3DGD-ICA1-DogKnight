@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/VillageScene.unity
     guid: 737ea339a0b93ab40a184124051ca4ca
+  - enabled: 1
+    path: Assets/Scenes/TavernScene.unity
+    guid: 33e4175bc5f838b42b1fbd65726764f1
+  - enabled: 1
+    path: Assets/Scenes/AlchemistScene.unity
+    guid: 7c8e7d74476231040a4d80805f53c0a6
+  - enabled: 1
+    path: Assets/Scenes/OutsideScene.unity
+    guid: 6985c77e3d518294fb435809190b69ef
   m_configObjects: {}
