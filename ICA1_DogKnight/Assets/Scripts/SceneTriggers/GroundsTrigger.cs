@@ -8,6 +8,6 @@ public class VillageTrigger : MonoBehaviour
     private void OnTriggerEnter()
     {
         blackScreen.SetActive(true);
-        SceneManager.LoadScene("VillageScene");
+        SceneManager.LoadScene("GroundsScene");
     }
 }

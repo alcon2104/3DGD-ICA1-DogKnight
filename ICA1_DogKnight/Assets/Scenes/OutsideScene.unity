@@ -2451,7 +2451,7 @@ GameObject:
   - component: {fileID: 887001379}
   - component: {fileID: 887001378}
   m_Layer: 0
-  m_Name: VillageTrigger
+  m_Name: GroundsTrigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

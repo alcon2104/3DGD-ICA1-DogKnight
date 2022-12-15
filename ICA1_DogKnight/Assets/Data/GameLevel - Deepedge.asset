@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9076ab6fc12677346aaed9bac112ec26, type: 3}
+  m_Name: GameLevel - Deepedge
+  m_EditorClassIdentifier: 
+  description: Deepedge
+  objectives:
+  - Find some help
+  - Find a replacement key
+  - Find wax
+  - Unlock the Gate
+  - Find the alchemist's ingredients
+  - Return to the alchemist
+  gameSceneList:
+  - {fileID: 11400000, guid: 1938dd4b0fc5c1742b4a89f46bf4a321, type: 2}
+  - {fileID: 11400000, guid: b6fdfa31f2d0c604c9b31eb89ec38e15, type: 2}
+  - {fileID: 11400000, guid: 631a7c927293bf54d9a7c47e27c3eee2, type: 2}
+  - {fileID: 11400000, guid: d2c9409e879173540a294a96b6cb0277, type: 2}

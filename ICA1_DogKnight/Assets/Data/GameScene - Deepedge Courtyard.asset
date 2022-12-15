@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da69e8839c7e9964cb77fce5c0f692a6, type: 3}
+  m_Name: GameScene - Deepedge Courtyard
+  m_EditorClassIdentifier: 
+  sceneObject: {fileID: 102900000, guid: 6985c77e3d518294fb435809190b69ef, type: 3}
+  description: Outer courtyard of the castle
+  backgroundMusic: {fileID: 0}
+  overrideVolume: 0.411
+  defaultPostProcessProfile: {fileID: 11400000, guid: e05694cd06274f048b7102f622d4efe8, type: 2}
