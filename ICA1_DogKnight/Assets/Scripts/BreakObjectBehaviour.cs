@@ -13,10 +13,10 @@ public class BreakObjectBehaviour : MonoBehaviour
 
     public void Break()
     {
-        if(gameObject)
         foreach(Transform t in transform)
         {
             var rb = t.GetComponent<Rigidbody>();
+            rb.isKinematic = false;
 
             if(rb != null)
             {
