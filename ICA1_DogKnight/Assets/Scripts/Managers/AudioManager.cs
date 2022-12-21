@@ -1,6 +1,8 @@
 using UnityEngine.Audio;
 using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UIElements;
 
 public class AudioManager : MonoBehaviour
 {
@@ -33,6 +35,14 @@ public class AudioManager : MonoBehaviour
     private void Start()
     {
         Play("Theme");
+        if(SceneManager.GetActiveScene().name == "GroundsScene" || SceneManager.GetActiveScene().name == "OutsideScene")
+        {
+            Play("Background Noise");
+        }
+        if (SceneManager.GetActiveScene().name == "TavernScene" || SceneManager.GetActiveScene().name == "AlchemistScene")
+        {
+            Play("Fire");
+        }
     }
 
     public void Play(string name)

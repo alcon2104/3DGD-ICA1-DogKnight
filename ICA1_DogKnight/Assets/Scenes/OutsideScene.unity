@@ -1727,6 +1727,12 @@ MonoBehaviour:
     pitch: 1
     loop: 0
     source: {fileID: 0}
+  - name: Background Noise
+    clip: {fileID: 8300000, guid: 750421c5ce9db0940841d8fa59b69c6f, type: 3}
+    volume: 0.55
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
 --- !u!4 &670780722
 Transform:
   m_ObjectHideFlags: 0

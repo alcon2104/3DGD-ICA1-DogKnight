@@ -35336,7 +35336,7 @@ MonoBehaviour:
     source: {fileID: 0}
   - name: Theme
     clip: {fileID: 8300000, guid: 263d9ddb4250feb46af834f6999fc5e6, type: 3}
-    volume: 0.2
+    volume: 0.1
     pitch: 1
     loop: 1
     source: {fileID: 0}
@@ -35345,6 +35345,12 @@ MonoBehaviour:
     volume: 0.75
     pitch: 0.1
     loop: 0
+    source: {fileID: 0}
+  - name: Background Noise
+    clip: {fileID: 8300000, guid: abc44becb8cbd7b4aa4ee18bbac68472, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
     source: {fileID: 0}
 --- !u!4 &2140776718
 Transform:
