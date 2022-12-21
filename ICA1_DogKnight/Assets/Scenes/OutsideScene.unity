@@ -1706,25 +1706,25 @@ MonoBehaviour:
   - name: Running
     clip: {fileID: 8300000, guid: 35b7903d52949484581ef56b3d81d510, type: 3}
     volume: 1
-    pitch: 0.1
+    pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: Sword Swing
     clip: {fileID: 8300000, guid: a91147fc7e86d83489f1f2f5d41657b8, type: 3}
     volume: 1
-    pitch: 0.1
+    pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: Theme
     clip: {fileID: 8300000, guid: d833cd726f9f1554595f7382916d11d1, type: 3}
-    volume: 0.5
-    pitch: 0.1
+    volume: 0.2
+    pitch: 1
     loop: 1
     source: {fileID: 0}
   - name: Item
     clip: {fileID: 8300000, guid: 47ecdb74e0b50a149bba3b059d6fa521, type: 3}
     volume: 0.75
-    pitch: 0.1
+    pitch: 1
     loop: 0
     source: {fileID: 0}
 --- !u!4 &670780722

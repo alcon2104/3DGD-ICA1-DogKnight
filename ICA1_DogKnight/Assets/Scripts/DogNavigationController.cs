@@ -72,7 +72,6 @@ namespace GD.Controllers
             {
                 animator.SetTrigger("isAttacking");
                 StartCoroutine(InitialiseAttack());
-                FindObjectOfType<AudioManager>().Play("SwordSwing");
             }
         }
 
@@ -80,6 +79,7 @@ namespace GD.Controllers
         {
             yield return new WaitForSeconds(0.1f);
             isAttacking = true;
+            FindObjectOfType<AudioManager>().Play("SwordSwing");
         }
 
         /// <summary>

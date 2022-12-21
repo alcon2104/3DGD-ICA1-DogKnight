@@ -23,7 +23,7 @@ public class BreakObjectBehaviour : MonoBehaviour
             {
                 rb.AddExplosionForce(Random.Range(minForce, maxForce), transform.position, radius);
                 
-                if(t.gameObject.name.Contains("Jug"))
+                if(t.gameObject.name.Contains("pot"))
                 {
                     FindObjectOfType<AudioManager>().Play("Pot Break");
                 }

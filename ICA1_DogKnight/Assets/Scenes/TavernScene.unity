@@ -602,31 +602,31 @@ MonoBehaviour:
   - name: Running
     clip: {fileID: 8300000, guid: 52deb5d447c68f847a03c6fc78ebfb58, type: 3}
     volume: 1
-    pitch: 0.1
+    pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: Sword Swing
     clip: {fileID: 8300000, guid: a91147fc7e86d83489f1f2f5d41657b8, type: 3}
     volume: 1
-    pitch: 0.1
+    pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: Barrel Break
     clip: {fileID: 8300000, guid: 53c79a407203a3544a595e427a09f143, type: 3}
     volume: 0.65
-    pitch: 0.1
+    pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: Theme
     clip: {fileID: 8300000, guid: c13536f178e95f040b074d6a92735b6f, type: 3}
-    volume: 0.5
-    pitch: 0.1
+    volume: 0.2
+    pitch: 1
     loop: 1
     source: {fileID: 0}
   - name: Item
     clip: {fileID: 8300000, guid: 47ecdb74e0b50a149bba3b059d6fa521, type: 3}
     volume: 0.75
-    pitch: 0.1
+    pitch: 1
     loop: 0
     source: {fileID: 0}
 --- !u!4 &28801675

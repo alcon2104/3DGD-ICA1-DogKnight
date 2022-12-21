@@ -35311,33 +35311,33 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sounds:
   - name: Running
-    clip: {fileID: 8300000, guid: 0b592169ea50e174fadd66f937c67173, type: 3}
+    clip: {fileID: 8300000, guid: b5895b01472d77f4cb82a71127d022a7, type: 3}
     volume: 1
-    pitch: 0.1
+    pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: Sword Swing
     clip: {fileID: 8300000, guid: a91147fc7e86d83489f1f2f5d41657b8, type: 3}
     volume: 1
-    pitch: 0.1
+    pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: Pot Break
     clip: {fileID: 8300000, guid: 853de85e00e10f043853c0e91085d5e4, type: 3}
     volume: 0.65
-    pitch: 0.1
+    pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: Barrel Break
     clip: {fileID: 8300000, guid: 53c79a407203a3544a595e427a09f143, type: 3}
     volume: 0.65
-    pitch: 0.1
+    pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: Theme
     clip: {fileID: 8300000, guid: 263d9ddb4250feb46af834f6999fc5e6, type: 3}
-    volume: 0.5
-    pitch: 0.1
+    volume: 0.2
+    pitch: 1
     loop: 1
     source: {fileID: 0}
   - name: Item
