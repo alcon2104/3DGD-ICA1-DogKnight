@@ -72,6 +72,7 @@ namespace GD.Controllers
             {
                 animator.SetTrigger("isAttacking");
                 StartCoroutine(InitialiseAttack());
+                FindObjectOfType<AudioManager>().Play("SwordSwing");
             }
         }
 
@@ -154,6 +155,7 @@ namespace GD.Controllers
                 SetWaypoint();
                 SetSelected(false);
                 animator.SetBool("isWalking", true);
+                FindObjectOfType<AudioManager>().Play("Running");
             }
         }
 
