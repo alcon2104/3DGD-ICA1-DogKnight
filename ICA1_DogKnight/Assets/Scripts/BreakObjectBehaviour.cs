@@ -11,6 +11,7 @@ public class BreakObjectBehaviour : MonoBehaviour
     [SerializeField]
     public float radius;
 
+
     public void Break()
     {
         foreach(Transform t in transform)
@@ -21,6 +22,15 @@ public class BreakObjectBehaviour : MonoBehaviour
             if(rb != null)
             {
                 rb.AddExplosionForce(Random.Range(minForce, maxForce), transform.position, radius);
+                
+                if(t.gameObject.name.Contains("pot"))
+                {
+                    FindObjectOfType<AudioManager>().Play("Pot Break");
+                }
+                else
+                {
+                    FindObjectOfType<AudioManager>().Play("Barrel Break");
+                }
             }
         }
     }
