@@ -47,7 +47,7 @@ namespace GD.Controllers
         private ISelector selector;
         private RaycastHit hitInfo;
         private bool isSelected;
-        private bool isAttacking = false;
+        public bool isAttacking = false;
 
         private void Awake()
         {

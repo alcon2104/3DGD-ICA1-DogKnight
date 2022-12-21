@@ -61517,6 +61517,7 @@ MonoBehaviour:
   currentlySelectedGameObject: {fileID: 11400000, guid: 0815a213af69f3246be282964cfb5cd1, type: 2}
   animationFinishTime: 0.9
   inputActions: {fileID: 7695082157742470786}
+  isAttacking: 0
 --- !u!4 &8504183274462624058
 Transform:
   m_ObjectHideFlags: 0
