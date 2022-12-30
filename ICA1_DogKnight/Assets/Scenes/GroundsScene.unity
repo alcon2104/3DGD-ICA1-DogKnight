@@ -122,7 +122,7 @@ NavMeshSettings:
     preserveTilesOutsideBounds: 0
     debug:
       m_Flags: 0
-  m_NavMeshData: {fileID: 23800000, guid: 47ebd35aa3e12c745abde4f741086d07, type: 2}
+  m_NavMeshData: {fileID: 23800000, guid: f1fee1e48ab1ceb4f970354311799628, type: 2}
 --- !u!1 &980192
 GameObject:
   m_ObjectHideFlags: 0
@@ -11959,6 +11959,66 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.5088645, y: 2.7685788, z: 4.0079503}
   m_Center: {x: -0.0000034868717, y: 1.3842893, z: 0.00000023841858}
+--- !u!1 &816740055
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 816740057}
+  - component: {fileID: 816740056}
+  - component: {fileID: 816740058}
+  m_Layer: 0
+  m_Name: GateTrigger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &816740056
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 816740055}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!4 &816740057
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 816740055}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 18.04, y: 3.72, z: -22.79}
+  m_LocalScale: {x: 1.9675, y: 2.1092, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 20
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &816740058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 816740055}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47ad7488131c9274b9e04543ea65e32a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actor: {fileID: 2000952081}
+  conversant: {fileID: 1657447216}
 --- !u!1 &821281165 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: d508de2584ef7734aa500f5c47210151, type: 3}
@@ -12731,7 +12791,7 @@ MonoBehaviour:
     luaWizardIndex: -1
     lastEvaluationValue: 0
   setQuestState: 1
-  questName: Find Help From Civilians
+  questName: 
   questState: 2
   setQuestEntryState: 0
   questEntryNumber: 1
@@ -18610,7 +18670,7 @@ MonoBehaviour:
     luaWizardIndex: -1
     lastEvaluationValue: 0
   setQuestState: 1
-  questName: Find Help From Civilians
+  questName: 
   questState: 2
   setQuestEntryState: 0
   questEntryNumber: 1
@@ -20339,7 +20399,7 @@ MonoBehaviour:
     luaWizardIndex: -1
     lastEvaluationValue: 0
   setQuestState: 1
-  questName: Find Help From Civilians
+  questName: 
   questState: 2
   setQuestEntryState: 0
   questEntryNumber: 1
@@ -24840,7 +24900,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 9d83f5800933bfc489906d234261d5e4, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 30
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9d83f5800933bfc489906d234261d5e4, type: 3}
       propertyPath: m_RootOrder
