@@ -6988,7 +6988,7 @@ MonoBehaviour:
     luaWizardIndex: -1
     lastEvaluationValue: 0
   setQuestState: 1
-  questName: Find the Potion Ingredients
+  questName: 
   questState: 2
   setQuestEntryState: 0
   questEntryNumber: 1
@@ -7012,7 +7012,7 @@ MonoBehaviour:
   allowBarksDuringConversations: 0
   skipBarkIfNoValidEntries: 0
   cacheBarkLines: 0
-  conversation: Task Conversation 1
+  conversation: Alchemist Conversations
   conversationConversant: {fileID: 2141307660}
   conversationActor: {fileID: 3324026556875381380}
   startConversationEntryID: -1

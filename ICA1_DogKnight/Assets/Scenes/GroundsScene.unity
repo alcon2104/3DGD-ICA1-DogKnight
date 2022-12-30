@@ -33860,8 +33860,8 @@ MonoBehaviour:
     acceptedGameObjects: []
     luaWizardIndex: -1
     lastEvaluationValue: 0
-  setQuestState: 1
-  questName: Bring Wax to the Blacksmith
+  setQuestState: 0
+  questName: 
   questState: 2
   setQuestEntryState: 0
   questEntryNumber: 1
