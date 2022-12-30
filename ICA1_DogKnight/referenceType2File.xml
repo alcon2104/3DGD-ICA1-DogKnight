@@ -1,0 +1,3192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>1be9003c3e1896a4f85f15bf6e10116e</guid>
+    <fileName>Assets/Plugins/Unity Sweeper/AssetCollector.cs</fileName>
+    <timeStamp>2022-12-30T00:15:10.8768098+00:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6223b7b1c82dc66499dfbca765246430</guid>
+    <fileName>Assets/Plugins/Unity Sweeper/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-30T00:15:10.8938264+00:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cc33662c689944f40a231e757038a3a3</guid>
+    <fileName>Assets/Plugins/Unity Sweeper/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-30T00:15:10.90984+00:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e43308d4daf76b241a01afeb4d09dd30</guid>
+    <fileName>Assets/Plugins/Unity Sweeper/CollectionData.cs</fileName>
+    <timeStamp>2022-12-30T00:15:10.9258552+00:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>79fa96df65c88d242b3b57e507ed6a20</guid>
+    <fileName>Assets/Plugins/Unity Sweeper/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2022-12-30T00:15:10.9398676+00:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4ca8b8fd5778c1c4fbb3c4bc660322a4</guid>
+    <fileName>Assets/Plugins/Unity Sweeper/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-30T00:15:10.9538807+00:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>28f16f23112701c4a99daeaa94e33507</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Templates/SaverTemplate.cs</fileName>
+    <timeStamp>2020-09-02T02:02:49+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9a08e3352b83ad248a7659179e1bcfb6</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Message System/DataSynchronizer.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.DataSynchronizer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>451e8dbddd258274a8d8c8e0faee5c2a</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Message System/MessageEvents.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.MessageEvents</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>adf62119a133d9a44b0cc59d4a3e2c12</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Message System/MessageSystemLogger.cs</fileName>
+    <timeStamp>2018-12-16T14:49:46+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.MessageSystemLogger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>daa6cb7825d05f04bbb53a7e77ecea90</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Misc/AlwaysFaceCamera.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.AlwaysFaceCamera</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f8b6927efcd77fa4d9e040d6c458eed2</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Misc/CheckPhysics2D.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.CheckPhysics2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>55e6a39a10aac9c499e74f0e05b975d9</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Misc/DontDestroyGameObject.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.DontDestroyGameObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b6dc48c641bb39742af066b7a0250f33</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Misc/EditorNote.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.EditorNote</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d0de032eaa7514a4c927cb11b63a87e1</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Misc/EnableOnStart.cs</fileName>
+    <timeStamp>2020-07-08T15:43:58+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.EnableOnStart</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3b24a5606b164c84db0d3ed3ee8256e1</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Misc/InstantiatePrefabs.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.InstantiatePrefabs</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5a1d78f7f12610c488c40d6c105741b0</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Misc/LODManager.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.LODManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fc03036aad05c334eab057a96938959a</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/SaveSystem.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.SaveSystem</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a5770f28fa59fc64bbc27e1f1c966632</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Text/GlobalTextTable.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.GlobalTextTable</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e7cd52ba1fd4e0e4c8c2a0a9700a6922</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Text/StringAsset.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.StringAsset</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1f9839ff07fc3994aa17c3c6b5ecfd28</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Text/TextTable.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.TextTable</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0ba39e8f5b5e09c48bc162905f6ce8f5</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/UI/DeselectPreviousOnPointerEnter.cs</fileName>
+    <timeStamp>2020-05-22T02:17:52+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.DeselectPreviousOnPointerEnter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dddab24af7a02a54c9631fd5c532d7c4</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/UI/InputDeviceManager.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.InputDeviceManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>41cd458118ad9a3479021e3caaca9653</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/UI/InputDeviceMethods.cs</fileName>
+    <timeStamp>2019-02-01T20:22:05+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.InputDeviceMethods</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7b2c467c72d1e02448cd64c390039f85</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/UI/KeepRectTransformOnscreen.cs</fileName>
+    <timeStamp>2019-01-01T20:23:52+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.KeepRectTransformOnscreen</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7de41b4a04bc3284e8796e536bc4acbb</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/UI/LocalizeUI.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.LocalizeUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>31f62120d7385ae41b003e28625fba63</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/UI/UIButtonKeyTrigger.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.UIButtonKeyTrigger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9e168378c6dd4b8408a51d7be3b9c422</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/UI/UILocalizationManager.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.UILocalizationManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>77c812308255e374f83c1e475bc0c826</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/UI/UIPanel.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.UIPanel</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>62cc181fd85762c43ba3dfb6bf475aca</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/UI/UIScrollbarEnabler.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.UIScrollbarEnabler</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>14971d28ea299004fb14110216ef4813</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/UI/UITextColor.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.UITextColor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c5f0d63e49e25f42920499e3e188a2d</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/UnityEvents/CollisionEvent.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.CollisionEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>09a7a0ced14ca0f44b37b3e5e5c8a74f</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/UnityEvents/DisappearEvent.cs</fileName>
+    <timeStamp>2019-03-13T13:32:45+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.DisappearEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b134e33f3df065940bcb04f98206be9f</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/UnityEvents/TimedEvent.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.TimedEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b79c7719e6566674b8c4d70a6fc32d34</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/UnityEvents/TriggerEvent.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.TriggerEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d1b59f13b2589734cbdee766ea9e9e60</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Templates/Scripts/PersistentDataTemplate.cs</fileName>
+    <timeStamp>2020-09-02T02:01:03+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>553d1f42adf5def42b890603fdf2a212</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Templates/Scripts/SequencerCommandTemplate.cs</fileName>
+    <timeStamp>2020-09-02T02:01:03+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>deb95395c295e9447839c0c54739cf2d</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Templates/Scripts/TemplateBarkUI.cs</fileName>
+    <timeStamp>2020-09-02T02:01:03+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b08e616564adeb8408035f738dba07d6</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Templates/Scripts/TemplateCustomLua.cs</fileName>
+    <timeStamp>2020-09-02T02:01:03+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>99d49d35774572746a3108815cb17ea2</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Templates/Scripts/TemplateDialogueUI.cs</fileName>
+    <timeStamp>2020-09-02T02:01:03+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1469d7a9b58c9b44fa0e3dfda60b4a97</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Templates/Scripts/TemplateQuestLogWindow.cs</fileName>
+    <timeStamp>2020-09-02T02:01:03+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1dd269e6b7b26b5499a289d993083c3e</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Templates/Scripts/TemplateTextFieldUI.cs</fileName>
+    <timeStamp>2020-09-02T02:01:03+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b7a2840b06cde3b479416623b4d15788</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Demo/DemoMenu.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Demo.Wrappers.DemoMenu</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>49391be9c9aabe245991f6eecde771ba</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Demo/DieOnTakeDamage.cs</fileName>
+    <timeStamp>2019-12-21T19:16:44+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Demo.Wrappers.DieOnTakeDamage</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6a1f1f85b5b36fe43ab947344ae06f1c</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Demo/NavigateOnMouseClick.cs</fileName>
+    <timeStamp>2019-12-21T19:16:44+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Demo.Wrappers.NavigateOnMouseClick</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8a6803d0a521d8b4d8edf887a4d81b55</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Demo/SimpleController.cs</fileName>
+    <timeStamp>2019-12-21T19:16:44+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Demo.Wrappers.SimpleController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7632c1e1be900ec47af24f77803c3744</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Demo/SmoothCameraWithBumper.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Demo.Wrappers.SmoothCameraWithBumper</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1dbbc84c70300ba489dc1fe1961516ec</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Editor/CustomLuaFunctionInfo.cs</fileName>
+    <timeStamp>2020-10-25T20:20:21+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.CustomLuaFunctionInfo</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ab8b685e62a9aeb4a9472b30ec2d86d9</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Manager/DialogueSystemController.cs</fileName>
+    <timeStamp>2019-12-21T19:16:43+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.DialogueSystemController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5a5473918a168c44fa0294bd4d1399f0</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Manager/DialogueSystemEvents.cs</fileName>
+    <timeStamp>2019-12-21T19:16:43+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.DialogueSystemEvents</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6546d1f34e0077748a93d4c356aa9411</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Manager/ExtraDatabases.cs</fileName>
+    <timeStamp>2019-12-21T19:22:23+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.ExtraDatabases</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7b871c74662c23945bf35b97caee462a</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Quests/IncrementOnDestroy.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.IncrementOnDestroy</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d6cf523ba89902b4096edc7b521eebfa</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Quests/QuestLogWindowHotkey.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.QuestLogWindowHotkey</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9788c61928f1bb24a8559f5d6aaed894</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Quests/QuestStateIndicator.cs</fileName>
+    <timeStamp>2019-12-21T19:22:23+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.QuestStateIndicator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ba2e3066672a3834182d094e4029952d</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Quests/QuestStateListener.cs</fileName>
+    <timeStamp>2019-12-21T19:22:23+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.QuestStateListener</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>41bba65d9207a8049b448b6c05eea7bd</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Save System/ConversationStateSaver.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.ConversationStateSaver</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>689b4b1238e337d4590a91183947bcd5</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Save System/DialogueSystemSaver.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.DialogueSystemSaver</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dc147552835385f4eab7d97b4c8aaca9</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Save System/GameSaver.cs</fileName>
+    <timeStamp>2019-12-21T19:22:23+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.GameSaver</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>64318a909173d4647b185b48389651a0</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Save System/LevelManager.cs</fileName>
+    <timeStamp>2019-12-21T19:22:23+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.LevelManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e3c5c9d31be71b548ac8cae1c6fd515c</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Save System/PersistentActiveData.cs</fileName>
+    <timeStamp>2019-12-21T19:22:23+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.PersistentActiveData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eaad4ebbb882ed54e9a0d279c8e464c9</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Save System/PersistentDestructible.cs</fileName>
+    <timeStamp>2019-12-21T19:22:23+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.PersistentDestructible</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>42c84023fc44c364faaf12f00d75e52f</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Save System/PersistentPositionData.cs</fileName>
+    <timeStamp>2019-12-21T19:22:23+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.PersistentPositionData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0dc55c6579779804a9babaf0a7b03207</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Utility/AlwaysFaceCamera.cs</fileName>
+    <timeStamp>2019-12-21T19:27:02+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.AlwaysFaceCamera</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bad8bcd861a25c241812359e07b141d5</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Utility/CommonLibraryLua.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.CommonLibraryLua</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f0922695a2c73f24283a3f2581bdf97c</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Utility/ConversationLogger.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.ConversationLogger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8e416a7b04e1e1d41b075edd65a4297e</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Utility/ConversationPositionStack.cs</fileName>
+    <timeStamp>2018-10-08T15:47:47+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.ConversationPositionStack</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>372087ff1dba1c94ab4217d10cbb462f</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Utility/LuaConsole.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.LuaConsole</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>450d955e9c1c92a41a5f7a4eed46013b</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Utility/LuaNetworkCommands.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e834c753fe6aad6489e36cfbe916f5df</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Editor/Text/StringAssetMenu.cs</fileName>
+    <timeStamp>2016-10-15T16:17:06+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c52fcb1acd7b9f94eaa528a425efcbb2</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Editor/Text/TextTableAssetMenu.cs</fileName>
+    <timeStamp>2016-10-15T16:17:11+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>70284ad54dd03d24780e77ae2506f64e</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/Misc/AutoSaveLoad.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.AutoSaveLoad</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f019b7247c137954f95c3a9dd029c562</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/Misc/SaveSystemEvents.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.SaveSystemEvents</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>28d3329b6cd68ab4a99cdab5d7d333c3</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/Misc/SaveSystemMethods.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.SaveSystemMethods</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d2136731e071bee419f51aed2a417dfa</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/Misc/SaveSystemTestMenu.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.SaveSystemTestMenu</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7203074dfbd78bc4fa51314c98bf4720</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/Misc/ScenePortal.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.ScenePortal</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74c30c109de697c4c8fa38395fef35a2</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/Savers/ActiveSaver.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.ActiveSaver</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f63bd3198a71a244d8dc6d21e0e91585</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/Savers/AnimatorSaver.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.AnimatorSaver</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>03526e258566dc247a4eb8525aeeb667</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/Savers/DestructibleSaver.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.DestructibleSaver</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>269287c8890007d4daa8bb12252f11ad</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/Savers/EnabledSaver.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.EnabledSaver</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f1454565ddde5b249a054545a05b51bd</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/Savers/MultiActiveSaver.cs</fileName>
+    <timeStamp>2020-02-19T15:11:41+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.MultiActiveSaver</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>58aa401304782f144806b4eb3390f7ec</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/Savers/MultiEnabledSaver.cs</fileName>
+    <timeStamp>2021-04-10T20:27:09+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.MultiEnabledSaver</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1af33a602e20a3d4ca46c8a6ef942618</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/Savers/PositionSaver.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.PositionSaver</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9fbafe64f40b0694b8d4ec9c082f8bf1</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/Serializers/JsonDataSerializer.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.JsonDataSerializer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6bf72844540b7744b895a4c85c853e30</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/Spawning/SpawnedObject.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.SpawnedObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2f856f22babe38646be94e1798fca165</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/Spawning/SpawnedObjectManager.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.SpawnedObjectManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ce15367ff646a9f448ec0e0bce64c2c5</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/Storers/DiskSavedGameDataStorer.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.DiskSavedGameDataStorer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ad4d3f2fce70b2441bd76f6c5777e8ab</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/Storers/PlayerPrefsSavedGameDataStorer.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.PlayerPrefsSavedGameDataStorer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>99738be95cdf96a4c83561277430a7a5</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/Transitions/StandardSceneTransitionManager.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.StandardSceneTransitionManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e7054cef1cc8cf8468e3dfe2cbea0b79</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Demo/Scenes/New Input System/DemoInputControls.cs</fileName>
+    <timeStamp>2022-11-07T15:37:57.9529256+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5dd6025e599c3a3409abb6c91a48f1b4</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Demo/Scenes/New Input System/DemoInputRegistration.cs</fileName>
+    <timeStamp>2021-03-31T14:31:06+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.DemoInputRegistration</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4b42518286c579a47820db4f597723ad</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Templates/Scripts/Aurora/TemplateNWScript.cs</fileName>
+    <timeStamp>2021-07-16T13:35:24+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d7ed7024b85ba9e4da33b56dfa756cc1</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Templates/Scripts/Editor/ConverterWindowTemplate.cs</fileName>
+    <timeStamp>2018-04-16T18:40:17+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f5c4f358d0aa5ba4abbb91a39c62ea2e</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Templates/Scripts/Editor/CustomFieldType_Conversation.cs</fileName>
+    <timeStamp>2019-12-19T02:16:16+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>60fc43ee2336d9b44bbd4f570aa54340</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Templates/Scripts/Editor/CustomFieldType_TemplateType.cs</fileName>
+    <timeStamp>2017-03-05T22:10:20+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>aacc795d66f43c840aa8537e6be04463</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/AudioEffect.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.AudioEffect</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9789ac40970ea9346ae2ce6497ffee0f</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/ContinueButtonFastForward.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.ContinueButtonFastForward</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bf7b91960d98f1b44ba6805653d184bd</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/FadeEffect.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.FadeEffect</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7cdb60899b9a6114e82657d5b679c74a</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/FlashEffect.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.FlashEffect</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dbddc4cefd1de8e43ad762b2798cda14</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/GUIButton.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.GUIButton</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>86a40e129f2cbc840aa07eeabd0f6056</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/GUIControl.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.GUIControl</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ea12e7461b242604388f78eb4b2782ef</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/GUIImage.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.GUIImage</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>06fc588754dcd504e899d843da4bb661</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/GUILabel.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.GUILabel</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>58b59ad33059c2d4798d54acbc32130e</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/GUIProgressBar.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.GUIProgressBar</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>79b7f4b23d5fee541951feb5a0ce6030</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/GUIRoot.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.GUIRoot</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c85cea89a1f0313409bdd92c7f74040d</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/GUIScrollView.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.GUIScrollView</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>61741e9f916d0e340ac16e38117976d6</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/GUITextField.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.GUITextField</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f063320ae3340f746b0a7d1f221b6702</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/GUIVisibleControl.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.GUIVisibleControl</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>75b03f00b69c5e144976cb1b7f9800c0</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/GUIWindow.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.GUIWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>981993f01c5b0db4499969008e1531aa</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/SlideEffect.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.SlideEffect</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b71bc7613034af34cab00b59795431c1</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/TimerEffect.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.TimerEffect</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>730b534d43b6a5b4d8e0843e523c845e</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/TypewriterEffect.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.TypewriterEffect</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f7edf2ddcb4ebb7418f5ceac3f460246</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/UnityBarkUI.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.UnityBarkUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>08db02e09c70dae41a7f14f942444140</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/UnityBarkUIOnGUI.cs</fileName>
+    <timeStamp>2018-10-02T23:07:46+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.UnityBarkUIOnGUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>85d7493b5ec1a4a489ede41c8064d254</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/UnityDialogueUI.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.UnityDialogueUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>82108a54a0154e54391e877dad198cf3</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/UnityGUIQuestLogWindow.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.UnityGUIQuestLogWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>770763badfe5e144fb5374a7dcab2789</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Legacy GUI/UnityTextFieldUI.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.UnityGUI.Wrappers.UnityTextFieldUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4d459c24cb34074479901880fe97a2c4</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Localized Text/LocalizedTextTable.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.LocalizedTextTable</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a859f480e4e0a8e4694ab73b436d975e</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Triggers/AlertTrigger.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.AlertTrigger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6261a88664dbeef4b80de76a1271dba8</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Triggers/BarkOnDialogueEvent.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.BarkOnDialogueEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>852c4a3d23d220e49a537c981b83c44c</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Triggers/BarkTrigger.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.BarkTrigger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6e2c2a6631002944d9b39d43412301e1</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Triggers/ConversationTrigger.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.ConversationTrigger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>66a4432e5474e1d45b552b6be0376c93</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Triggers/LuaOnDialogueEvent.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.LuaOnDialogueEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>81fbe85055c4afd4294183a6fa137aff</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Triggers/LuaTrigger.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.LuaTrigger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a4f5dab17b4162641940c1ad926ff72d</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Triggers/QuestTrigger.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.QuestTrigger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e1213303bc5604940adfcf2245a4d459</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Triggers/SendMessageOnDialogueEvent.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.SendMessageOnDialogueEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0a9990037fcb2384ba5469515c75575d</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Triggers/SequenceTrigger.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.SequenceTrigger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ad8206dbaf03f8c4786b7b786a72241b</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Triggers/SetActiveOnDialogueEvent.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.SetActiveOnDialogueEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d5d04d2c12ab63342ad50ca09235a6bf</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Triggers/SetAnimationOnDialogueEvent.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.SetAnimationOnDialogueEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>18f0e7209ff09cc468f7426401cb773c</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Triggers/SetAnimatorStateOnDialogueEvent.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.SetAnimatorStateOnDialogueEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d98081209270c3f408f75925325a7d48</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Triggers/SetComponentEnabledOnDialogueEvent.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.SetComponentEnabledOnDialogueEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8d351540ff325e24aaeaa3fe828c860b</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Triggers/SetEnabledOnDialogueEvent.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.SetEnabledOnDialogueEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>55b87f2cb08c9364eb07bfd5deb7414a</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Triggers/SetQuestStateOnDialogueEvent.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.SetQuestStateOnDialogueEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eaf6a3843af869e46a0010cf44652f35</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Triggers/ShowCursorOnConversation.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.ShowCursorOnConversation</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>26a8546376653094b81a0700a82c3f23</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Triggers/StartConversationOnDialogueEvent.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StartConversationOnDialogueEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cae47c77bb631624c8b363db401afb07</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Triggers/StartSequenceOnDialogueEvent.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StartSequenceOnDialogueEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8896a90a27f1c434f92b67306392521c</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Deprecated/Triggers/StopConversationIfTooFar.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StopConversationIfTooFar</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>55b94953a9871c543bb857d69986bb28</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Importers/Articy/ArticyLuaFunctions.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>891cbbf640378df45ab970f7fc274b22</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/MVC/Actor/ActorSubtitleColor.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.ActorSubtitleColor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ae33fffd0c0859d459ed90d1b2e8f607</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/MVC/Actor/BarkGroupMember.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.BarkGroupMember</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8875f090515668948a570c7325694ba3</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/MVC/Actor/DefaultCameraAngle.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.DefaultCameraAngle</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a64578247383140469c45370654a984a</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/MVC/Actor/DialogueActor.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.DialogueActor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0667fa3cac88acb4f8f7aec801b27605</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/MVC/Actor/OverrideActorName.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.OverrideActorName</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>935899b62f48ae5498594680ed17d133</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/MVC/Model/DialogueDatabase.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.DialogueDatabase</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ca55201633b97d3408f439eb84ecb249</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/MVC/Model/DialogueSystemSceneEvents.cs</fileName>
+    <timeStamp>2020-04-15T21:28:38+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.DialogueSystemSceneEvents</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e6826db3b75174641a9b58531b63e97c</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/MVC/View/BarkDialogueUI.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.BarkDialogueUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3bd27235dca69114baf4bc6283f3adaf</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/MVC/View/SequencerShortcuts.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.SequencerShortcuts</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bb23565486e11104eac22e26078a9018</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/MVC/View/TextlessBarkUI.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.TextlessBarkUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b9452e0fbfa245c46aceceb551675604</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Options/Cinemachine/CinemachineCameraPriorityOnDialogueEvent.cs</fileName>
+    <timeStamp>2019-08-29T21:52:18+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.CinemachineCameraPriorityOnDialogueEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>39b57c445266b414d8b3be9a0a70f159</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Options/Timeline/TimelineTrigger.cs</fileName>
+    <timeStamp>2019-07-21T20:44:37+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>963d6358c55a0f44d8de57bee560f184</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Triggers/Interaction/ProximitySelector.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.ProximitySelector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>624654ff0a68ee844994f728ddf3d991</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Triggers/Interaction/Selector.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.Selector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2355eb849268f8540b9e82cdddb8579f</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Triggers/Interaction/SelectorFollowTarget.cs</fileName>
+    <timeStamp>2019-12-21T19:22:23+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.SelectorFollowTarget</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>274b80ab5b659c646ba9338870d14625</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Triggers/Interaction/Usable.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.Usable</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>505dcd4c4aa3a1741ab98b9ad39eb7a5</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Triggers/Trigger/BarkOnIdle.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.BarkOnIdle</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9cedf348ece7ef64aa74cb295e8ed71c</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Triggers/Trigger/ConditionObserver.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.ConditionObserver</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c593457cd8105e148906690e1707c592</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Triggers/Trigger/DialogueSystemTrigger.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.DialogueSystemTrigger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>afa662fc908dede479d40f83018184c4</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Triggers/Trigger/RangeTrigger.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.RangeTrigger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0237be8888ab33a478f9842e8dc9eb59</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/TextMesh/LocalizeTextMesh.cs</fileName>
+    <timeStamp>2019-12-21T19:24:43+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.LocalizeTextMesh</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e64e51b1779bb93499ef905559fe62ee</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Utility/ConversationControl.cs</fileName>
+    <timeStamp>2021-08-01T14:43:34+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.ConversationControl</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c35f1a169e96b284895c4b8e151a822f</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Utility/PreloadActorPortraits.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.PreloadActorPortraits</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1360375efe462cd4ab520d1661206035</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Utility/TextMeshProTypewriterEffect.cs</fileName>
+    <timeStamp>2019-12-21T19:27:02+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.TextMeshProTypewriterEffect</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6c9d27989a5b06848886a48c124164a0</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Utility/UIButtonKeyTrigger.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UIButtonKeyTrigger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>72dc8c469f3a9e74693f0cb226e96e32</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Utility/UnityUIColorText.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UnityUIColorText</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>03f74548731cbe94aab73effe5ffcabf</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Utility/UnityUIIgnorePauseCodes.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UnityUIIgnorePauseCodes</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>63b3fef88c591dc47a952b69e3f3f7da</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Utility/UnityUIScrollbarEnabler.cs</fileName>
+    <timeStamp>2019-08-31T19:57:08+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UnityUIScrollbarEnabler</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cf59e9c601bf0354baa2d3daac7d491e</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Utility/UnityUITypewriterEffect.cs</fileName>
+    <timeStamp>2019-12-21T19:24:43+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UnityUITypewriterEffect</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dd7fa48387042da489ff909262cf36aa</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Common/Wrappers/Save System/Serializers/Binary/BinaryDataSerializer.cs</fileName>
+    <timeStamp>2018-10-02T22:59:33+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.Wrappers.BinaryDataSerializer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ea217c522c468d5448e356e903b64354</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Editor/Options/Timeline/BarkDrawer.cs</fileName>
+    <timeStamp>2021-07-05T18:42:56+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7fa4bf017af8f20498e5c904722eaa11</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Editor/Options/Timeline/ContinueConversationBehaviourDrawer.cs</fileName>
+    <timeStamp>2021-05-16T00:53:58+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9f25082a8b436744284fa136bda619a4</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Editor/Options/Timeline/PlaySequenceBehaviourDrawer.cs</fileName>
+    <timeStamp>2019-07-21T20:53:41+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5b9a04fbd98428a4ba4cdbac4817613d</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Editor/Options/Timeline/SetQuestStateBehaviourDrawer.cs</fileName>
+    <timeStamp>2019-07-21T20:53:41+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ca01ea2ecd03ac848a47155d5c8e0263</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Editor/Options/Timeline/ShowAlertBehaviourDrawer.cs</fileName>
+    <timeStamp>2019-07-21T20:53:41+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>854f36da2a48c4e449751e5b3a6e6ed2</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Editor/Options/Timeline/StartConversationBehaviourDrawer.cs</fileName>
+    <timeStamp>2021-07-05T18:42:56+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8b2b4951e0a68a14f877985acf5ff5e5</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Cinemachine/Sequencer Commands/SequencerCommandCinemachinePriority.cs</fileName>
+    <timeStamp>2021-07-23T18:31:18+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7bca367b62e0e5047ac2747a54c91314</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Cinemachine/Sequencer Commands/SequencerCommandCinemachineTarget.cs</fileName>
+    <timeStamp>2019-12-05T20:08:19+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f736d0923b6b575448f36ffff0bff08a</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Cinemachine/Triggers/CinemachineCameraPriorityOnDialogueEvent.cs</fileName>
+    <timeStamp>2019-08-29T21:21:18+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.CinemachineCameraPriorityOnDialogueEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a1bb7122cade16b4f8144d4fe55baeab</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Sequencer/SequencerCommandTimeline.cs</fileName>
+    <timeStamp>2020-05-16T20:38:21+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9a054d1f2f12f804d8b6bfb8cc121e02</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Triggers/TimelineTrigger.cs</fileName>
+    <timeStamp>2019-07-21T20:36:48+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>205c6d4e7606f8d40b5d2763ea70a42d</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/MVC/Actor/Override/OverrideDialogueUI.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.OverrideDialogueUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f672f349a96246545a95dbb941ad0f44</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/MVC/Actor/Override/OverrideDisplaySettings.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.OverrideDisplaySettings</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>35b689d0205d778479b0dac3b159c3b4</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Bark/StandardBarkUI.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StandardBarkUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e9888f0d13032ad4bb14acdba3472d3a</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Dialogue/StandardDialogueUI.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StandardDialogueUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>06a595362371054409f908a284e235c4</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Dialogue/StandardUIInputField.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StandardUIInputField</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0a44b96aa95563e4dbd81da44328a697</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Dialogue/StandardUIMenuPanel.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StandardUIMenuPanel</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>05399fb241106df4fbea2cb9b72f8a5b</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Dialogue/StandardUIResponseButton.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StandardUIResponseButton</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e9a9540f98bb79346b296ec5feb51073</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Dialogue/StandardUISubtitlePanel.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StandardUISubtitlePanel</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c9f9efadd5f49e340b54a023cb6dfc9e</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Effects/StandardUIColorText.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StandardUIColorText</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>73ee3d99442035942b6dd1ede25ff7cd</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Effects/StandardUIContinueButtonFastForward.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StandardUIContinueButtonFastForward</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>414a1db524be2ba46bc7ca051b890cf7</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Effects/StandardUIIgnorePauseCodes.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StandardUIIgnorePauseCodes</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>27e68e079d48afa43b19c14dd2dbbeaf</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Quest/StandardUIQuestLogWindow.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StandardUIQuestLogWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3636a79541e359942a7e392895f66751</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Quest/StandardUIQuestTitleButtonTemplate.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StandardUIQuestTitleButtonTemplate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2168d38d221b35c4ba543877f39e93ae</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Quest/StandardUIQuestTracker.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StandardUIQuestTracker</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a45f62c4800696843aa9a7e59ecfc0da</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Quest/StandardUIQuestTrackTemplate.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StandardUIQuestTrackTemplate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bf9481d631e872c45a9f702509a148ff</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Selector/SelectorUseStandardUIElements.cs</fileName>
+    <timeStamp>2019-12-21T19:27:29+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.SelectorUseStandardUIElements</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>37f9837a261a7d04ab92e117a5389cc2</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Selector/StandardUISelectorElements.cs</fileName>
+    <timeStamp>2019-12-21T19:27:54+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StandardUISelectorElements</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e6e2bf5c3a3a3674cbb0632424a1b0c9</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Selector/StandardUsableUI.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StandardUsableUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>95da539ddbc2549419f3b1747d96dfab</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Bark/UnityUIBarkUI.cs</fileName>
+    <timeStamp>2019-12-21T19:24:43+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UnityUIBarkUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>581cba10a8a8adc499bd23856d777aa6</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Dialogue/OverrideUnityUIDialogueControls.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.OverrideUnityUIDialogueControls</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2093c006cf3a3364b83955c2a5c160a3</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Dialogue/UnityUIBarkSubtitleDialogueUI.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UnityUIBarkSubtitleDialogueUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f6fdc33e7e137c54fa00b63521da1e89</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Dialogue/UnityUIDialogueUI.cs</fileName>
+    <timeStamp>2019-12-21T19:24:43+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UnityUIDialogueUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>55238ff1c242cb844a817a14ebba94d5</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Dialogue/UnityUIResponseButton.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UnityUIResponseButton</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>654377b39a2c93e4e8370c5b42814c25</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Dialogue/UnityUITextFieldUI.cs</fileName>
+    <timeStamp>2019-12-21T19:24:43+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UnityUITextFieldUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f94969a37790a3c48a40ce732c9a2e47</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Dialogue/UnityUITimer.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UnityUITimer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b13ff0c745d27b04faaf561506b248ca</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Effects/LocalizeUIText.cs</fileName>
+    <timeStamp>2019-12-21T19:24:43+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d64855722c327434594ed15a3f449561</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Effects/UnityUIContinueButtonFastForward.cs</fileName>
+    <timeStamp>2019-12-21T19:24:43+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UnityUIContinueButtonFastForward</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ff2fc9f34f2334b46930b051b2738a4d</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Effects/UpdateLocalizedUITexts.cs</fileName>
+    <timeStamp>2019-12-21T19:24:43+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>02612e74f4578364b80e50bec4ea209e</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Quest/UnityUIQuestGroupTemplate.cs</fileName>
+    <timeStamp>2019-12-21T19:24:43+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UnityUIQuestGroupTemplate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cc67a7b0335758544842572b7336f50d</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Quest/UnityUIQuestLogWindow.cs</fileName>
+    <timeStamp>2019-12-21T19:24:43+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UnityUIQuestLogWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>27c79b3ae7c2cf146b7324b86ef4178b</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Quest/UnityUIQuestTemplate.cs</fileName>
+    <timeStamp>2019-12-21T19:24:43+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UnityUIQuestTemplate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>71cd66fb5e7bd2947af6fde1794a6184</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Quest/UnityUIQuestTemplateAlternateDescriptions.cs</fileName>
+    <timeStamp>2018-04-19T15:48:17+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2b45411c74d88a24db4eb4456c42e63b</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Quest/UnityUIQuestTitle.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UnityUIQuestTitle</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f9f1e3a72c8b61149ab6e90155d2af87</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Quest/UnityUIQuestTracker.cs</fileName>
+    <timeStamp>2019-12-21T19:24:43+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UnityUIQuestTracker</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fac8791427dbd9f48b48e74ad89a739e</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Quest/UnityUIQuestTrackTemplate.cs</fileName>
+    <timeStamp>2019-12-21T19:24:43+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UnityUIQuestTrackTemplate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a805898d10649184f945ca231075aafd</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Selector/UnityUISelectorDisplay.cs</fileName>
+    <timeStamp>2019-12-21T19:24:43+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UnityUISelectorDisplay</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c7310b8667888304696354086023a155</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Selector/UnityUISelectorElements.cs</fileName>
+    <timeStamp>2019-12-21T19:24:43+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UnityUISelectorElements</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0c2ef96235874484cad2dd606f882c9d</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Selector/UsableUnityUI.cs</fileName>
+    <timeStamp>2019-12-21T19:24:43+00:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UsableUnityUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7b81d886d4bce8143b41ea726c89e816</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/Bark/BarkBehaviour.cs</fileName>
+    <timeStamp>2021-07-02T13:47:25+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6a0e4c63550426b4d8353200eee9cc2e</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/Bark/BarkClip.cs</fileName>
+    <timeStamp>2019-07-21T20:36:48+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1736028b55455794a92045b52ed31d6a</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/Bark/BarkMixerBehaviour.cs</fileName>
+    <timeStamp>2021-07-20T02:38:50+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3a2a3f2661708cb499eee7439c07d9f4</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/Bark/BarkTrack.cs</fileName>
+    <timeStamp>2019-07-21T20:36:48+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bb9a5a9ce5175a54496115d7dae0e0dd</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/Continue/ContinueConversationBehaviour.cs</fileName>
+    <timeStamp>2019-12-25T14:19:56+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>91aa6df33dd04e94d901e44559ba96ee</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/Continue/ContinueConversationClip.cs</fileName>
+    <timeStamp>2020-12-06T20:10:12+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bee82f3841e0ae641bcbb9aad71751fd</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/Continue/ContinueConversationTrack.cs</fileName>
+    <timeStamp>2019-07-21T20:36:48+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1f97422de1f784f49ba8fbd4df5b765d</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/Continue/ConversationContinueMixerBehaviour.cs</fileName>
+    <timeStamp>2020-03-03T20:48:38+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c865ac47b63cfc4ebdab60651b8b00d</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/Conversation/ConversationMixerBehaviour.cs</fileName>
+    <timeStamp>2020-03-03T16:04:37+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3bb2a7e26f0b6e54eaa5a5df7ea882bd</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/Conversation/ConversationTrack.cs</fileName>
+    <timeStamp>2019-07-21T20:36:48+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>62cecfb502ca0594fbf8c6110844d015</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/Conversation/StartConversationBehaviour.cs</fileName>
+    <timeStamp>2021-07-02T13:47:25+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>de9a6ac88707e9d47aaafc868146ff92</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/Conversation/StartConversationClip.cs</fileName>
+    <timeStamp>2020-12-06T20:10:12+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bde922bfd1f5c2d4393d1ed074f37a2d</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/PlaySequence/PlaySequenceBehaviour.cs</fileName>
+    <timeStamp>2019-07-21T20:36:48+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>53f17cc934b2a3e459bea7b49e0cfc1a</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/PlaySequence/PlaySequenceClip.cs</fileName>
+    <timeStamp>2019-07-21T20:36:48+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4ff1d1ea54e932941bb219003003358f</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/PlaySequence/PlaySequenceMixerBehaviour.cs</fileName>
+    <timeStamp>2019-07-21T20:36:48+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>83393f7a5c3f14146af91373ef3afad0</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/PlaySequence/PlaySequenceTrack.cs</fileName>
+    <timeStamp>2019-07-21T20:36:48+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5c3ac691132c4ae49b910e1465302a77</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/QuestState/QuestStateMixerBehaviour.cs</fileName>
+    <timeStamp>2019-07-21T20:36:48+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74767124487299541b8c2e7554aae328</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/QuestState/QuestStateTrack.cs</fileName>
+    <timeStamp>2019-07-21T20:36:48+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ffd0e5dfe30fb534787678eb2c70b506</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/QuestState/SetQuestStateBehaviour.cs</fileName>
+    <timeStamp>2019-07-21T20:36:48+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3099cfc84ecae0749918b91fa3c3366b</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/QuestState/SetQuestStateClip.cs</fileName>
+    <timeStamp>2019-07-21T20:36:48+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>44aeb3ac00c76f24e8d4a53ad851a5b8</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/ShowAlert/AlertMixerBehaviour.cs</fileName>
+    <timeStamp>2019-07-21T20:36:48+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0fc61c964c8e4a74fa7520e96c9e5aea</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/ShowAlert/AlertTrack.cs</fileName>
+    <timeStamp>2019-07-21T20:36:48+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b558b7ae1b5bc5f439b56512a90eda56</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/ShowAlert/ShowAlertBehaviour.cs</fileName>
+    <timeStamp>2019-07-21T20:36:48+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cdcdae3044642c344af4af937496c8d1</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/ShowAlert/ShowAlertClip.cs</fileName>
+    <timeStamp>2019-07-21T20:36:48+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>72127ead31a2ed74a9eb20f8f00b477d</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/Options/Timeline/Playables/Utility/PreviewUI.cs</fileName>
+    <timeStamp>2021-05-09T02:09:24+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a17f4981fe3eaee409d221dd51c413ed</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Dialogue/SMS/SMSDialogueUI.cs</fileName>
+    <timeStamp>2021-05-10T16:09:16+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.SMSDialogueUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>37afc2e97a9c8aa4aad3a5c306155f36</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Quest/Common/StandardUIButtonTemplate.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StandardUIButtonTemplate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>24796e3cc17ac9148ba0787e8cc26dd0</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Quest/Common/StandardUIFoldoutTemplate.cs</fileName>
+    <timeStamp>2018-10-02T23:07:45+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StandardUIFoldoutTemplate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>004c59bce9a55654e98abb835847385d</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Quest/Common/StandardUITextTemplate.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StandardUITextTemplate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1c6f5c1f45c7c7e428a2b54e01467f5b</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Quest/Common/StandardUIToggleTemplate.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.StandardUIToggleTemplate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d41ef65701e7f5a4192a309151ff176b</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Dialogue/Portraits/AnimatedPortrait.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.AnimatedPortrait</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1bf3d1cc04ccfd74ebbc63d6934950ab</guid>
+    <fileName>Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Unity UI/Dialogue/Portraits/UseAnimatedPortraits.cs</fileName>
+    <timeStamp>2018-10-02T23:07:44+01:00</timeStamp>
+    <typeFullName>
+      <string>PixelCrushers.DialogueSystem.Wrappers.UseAnimatedPortraits</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>97892d7342ca5e44fa37835634070709</guid>
+    <fileName>Assets/Scripts/BreakObjectBehaviour.cs</fileName>
+    <timeStamp>2022-12-21T22:42:23.0562468+00:00</timeStamp>
+    <typeFullName>
+      <string>BreakObjectBehaviour</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4cd1b6c9890e5fe408a6a29ffcf1fdeb</guid>
+    <fileName>Assets/Scripts/BreakTriggerBehaviour.cs</fileName>
+    <timeStamp>2022-12-21T22:21:45.8096878+00:00</timeStamp>
+    <typeFullName>
+      <string>BreakTriggerBehaviour</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ef5fef3b9d96800458082ee35fb638ae</guid>
+    <fileName>Assets/Scripts/DogNavigationController.cs</fileName>
+    <timeStamp>2022-12-21T22:42:23.0572469+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.Controllers.DogNavigationController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b854f7bc804d9ac47ab5907e0a59d8b8</guid>
+    <fileName>Assets/Scripts/LightFlickerBehaviour.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.8878401+00:00</timeStamp>
+    <typeFullName>
+      <string>LightFlickerBehaviour</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>52fea17a2d56d46afa0d6cb52e2a4335</guid>
+    <fileName>Assets/LeanTween/Editor/LeanTweenDocumentationEditor.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.9149568+00:00</timeStamp>
+    <typeFullName>
+      <string>LeanTweenDocumentationEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>52e41e970d9353942b27458440bec9eb</guid>
+    <fileName>Assets/LeanTween/Framework/LeanAudio.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.7135993+00:00</timeStamp>
+    <typeFullName>
+      <string>LeanAudioStream</string>
+      <string>LeanAudio</string>
+      <string>LeanAudioOptions</string>
+      <string>LeanAudioOptions+LeanAudioWaveStyle</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1ca0f285af8dd4270bd759978223faad</guid>
+    <fileName>Assets/LeanTween/Framework/LeanSmooth.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.7306135+00:00</timeStamp>
+    <typeFullName>
+      <string>LeanSmooth</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>82464f26ca2ba284a8f92f51248c574a</guid>
+    <fileName>Assets/LeanTween/Framework/LeanTest.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.732616+00:00</timeStamp>
+    <typeFullName>
+      <string>LeanTester</string>
+      <string>LeanTest</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9c2f4b27196f84954b44753aaac214bb</guid>
+    <fileName>Assets/LeanTween/Framework/LeanTween.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.7356189+00:00</timeStamp>
+    <typeFullName>
+      <string>TweenAction</string>
+      <string>LeanTweenType</string>
+      <string>LeanProp</string>
+      <string>LeanTween</string>
+      <string>LTUtility</string>
+      <string>LTBezier</string>
+      <string>LTBezierPath</string>
+      <string>LTSpline</string>
+      <string>LTRect</string>
+      <string>LTEvent</string>
+      <string>LTGUI</string>
+      <string>LTGUI+Element_Type</string>
+      <string>DentedPixel.LeanDummy</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5dbe851e9c0814f1d8f514ecf70f675d</guid>
+    <fileName>Assets/LeanTween/Framework/LeanTweenExt.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.7386216+00:00</timeStamp>
+    <typeFullName>
+      <string>LeanTweenExt</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>381c8d6fb1acdc348870a7147bc98723</guid>
+    <fileName>Assets/LeanTween/Framework/LTDescr.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.7095953+00:00</timeStamp>
+    <typeFullName>
+      <string>LTDescr</string>
+      <string>LTDescr+EaseTypeDelegate</string>
+      <string>LTDescr+ActionMethodDelegate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c1ba8f1ef97134cb39b52ae26678db63</guid>
+    <fileName>Assets/LeanTween/Framework/LTDescrOptional.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.7105965+00:00</timeStamp>
+    <typeFullName>
+      <string>LTDescrOptional</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6c88dbe4cdd9944f198e9796ee394c86</guid>
+    <fileName>Assets/LeanTween/Framework/LTSeq.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.7115979+00:00</timeStamp>
+    <typeFullName>
+      <string>LTSeq</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5995e42505a2bb5458e8b2339a58fcd9</guid>
+    <fileName>Assets/Scripts/LeanTween/LightWobbleBehaviour.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.8868372+00:00</timeStamp>
+    <typeFullName>
+      <string>LightWobbleBehaviour</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>41f0544b2bb8c6f439316ae85b935c28</guid>
+    <fileName>Assets/Scripts/Managers/AudioManager.cs</fileName>
+    <timeStamp>2022-12-21T23:00:27.3510987+00:00</timeStamp>
+    <typeFullName>
+      <string>AudioManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c98815ae3c8090c40bdec454ff4f0c47</guid>
+    <fileName>Assets/Scripts/Menu/MainMenu.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.8898398+00:00</timeStamp>
+    <typeFullName>
+      <string>MainMenu</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7647281a275c5b3479540c6486789a20</guid>
+    <fileName>Assets/Scripts/Menu/PauseMenu.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.8898398+00:00</timeStamp>
+    <typeFullName>
+      <string>PauseMenu</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3f2e2517468c8874781e9ac6c03c9b63</guid>
+    <fileName>Assets/Scripts/SceneTriggers/AlchemistTrigger.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.8918415+00:00</timeStamp>
+    <typeFullName>
+      <string>AlchemistTrigger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0844a042a3136fd499030f399f8b703b</guid>
+    <fileName>Assets/Scripts/SceneTriggers/GroundsTrigger.cs</fileName>
+    <timeStamp>2022-12-17T10:53:12.0096645+00:00</timeStamp>
+    <typeFullName>
+      <string>GroundsTrigger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3b9af0e8fad401645985ef6c0526bb95</guid>
+    <fileName>Assets/Scripts/SceneTriggers/OutsideTrigger.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.8928426+00:00</timeStamp>
+    <typeFullName>
+      <string>OutsideTrigger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dcf0522a3622324478c0f315d0744d96</guid>
+    <fileName>Assets/Scripts/SceneTriggers/TavernTrigger.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.8938436+00:00</timeStamp>
+    <typeFullName>
+      <string>TavernTrigger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6bb329f4083b7a048ae5ade40fba550d</guid>
+    <fileName>Assets/Scripts/Sound/Sound.cs</fileName>
+    <timeStamp>2022-12-21T22:42:23.0597776+00:00</timeStamp>
+    <typeFullName>
+      <string>Sound</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>876bfcaf53a664f29a628faa9fa332fc</guid>
+    <fileName>Assets/LeanTween/Examples/Archived/OldGUIExamplesCS.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.9259343+00:00</timeStamp>
+    <typeFullName>
+      <string>OldGUIExamplesCS</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b8abaf57a262a44a994d8e7bcbc035e0</guid>
+    <fileName>Assets/LeanTween/Examples/Archived/TestingPunch.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.9319415+00:00</timeStamp>
+    <typeFullName>
+      <string>TestingPunch</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1172f23ac87274d9f941c26abca49be5</guid>
+    <fileName>Assets/LeanTween/Examples/Archived/TestingRigidbodyCS.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.9469516+00:00</timeStamp>
+    <typeFullName>
+      <string>TestingRigidbodyCS</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7e619db3c84234f098b8636588c25e4f</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/Following.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.5940964+00:00</timeStamp>
+    <typeFullName>
+      <string>Following</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a4fce1b486cc240c4825b3bfd794e9e0</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/GeneralAdvancedTechniques.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.5991008+00:00</timeStamp>
+    <typeFullName>
+      <string>GeneralAdvancedTechniques</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a2605544ab2e14c93a780ca20c108cfe</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/GeneralBasic.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6105053+00:00</timeStamp>
+    <typeFullName>
+      <string>GeneralBasic</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9b39dd70d168b4cbea9a7b8561d9accc</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/GeneralBasics2d.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6115099+00:00</timeStamp>
+    <typeFullName>
+      <string>GeneralBasics2d</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8a650682fa3d54a57a2521dbf9f6eac2</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/GeneralCameraShake.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6135122+00:00</timeStamp>
+    <typeFullName>
+      <string>GeneralCameraShake</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>94e9a883a33cd40b9be1a63f002c4db2</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/GeneralEasingTypes.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6145137+00:00</timeStamp>
+    <typeFullName>
+      <string>GeneralEasingTypes</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cd679d4fbbd8d475ba7187561370c3aa</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/GeneralEventsListeners.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6155141+00:00</timeStamp>
+    <typeFullName>
+      <string>GeneralEventsListeners</string>
+      <string>GeneralEventsListeners+MyEvents</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5b54bce4a9ed14e28a4a423c794a2d70</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/GeneralSequencer.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6165147+00:00</timeStamp>
+    <typeFullName>
+      <string>GeneralSequencer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>19c352f230e8b46f08abbbd7cc11edb8</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/GeneralSimpleUI.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6185183+00:00</timeStamp>
+    <typeFullName>
+      <string>GeneralSimpleUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cc2ddccee016148b189d987f564ee08e</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/GeneralUISpace.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6195177+00:00</timeStamp>
+    <typeFullName>
+      <string>GeneralUISpace</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>674f3c10d8880408e875a9e6c3ee83bb</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/LogoCinematic.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6335284+00:00</timeStamp>
+    <typeFullName>
+      <string>LogoCinematic</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ac2038ba3961049ed889ae71039982cd</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/PathBezier.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6345293+00:00</timeStamp>
+    <typeFullName>
+      <string>DentedPixel.LTExamples.PathBezier</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>873cb511c724a48bd919ce8a18fa882c</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/PathBezier2d.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6355309+00:00</timeStamp>
+    <typeFullName>
+      <string>PathBezier2d</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ef4235237d8d8413c9d5807cf0a1f77b</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/PathSpline.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6365315+00:00</timeStamp>
+    <typeFullName>
+      <string>ExampleSpline</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>15c036b11e3ff486ea685da06fa305f6</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/PathSpline2d.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6375322+00:00</timeStamp>
+    <typeFullName>
+      <string>PathSpline2d</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>784f0e347ee4d4c3b83ca56d6f33f01a</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/PathSplineEndless.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6445384+00:00</timeStamp>
+    <typeFullName>
+      <string>PathSplineEndless</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5de62495c8a5d49e6b3ca111f8c7e944</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/PathSplinePerformance.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6465399+00:00</timeStamp>
+    <typeFullName>
+      <string>PathSplinePerformance</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>de0396ae3eef541c190f0e6962090454</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/PathSplines.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6485419+00:00</timeStamp>
+    <typeFullName>
+      <string>PathSplines</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>31af73f8be2864eda9a3fbb6d0d2a9c7</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/PathSplineTrack.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6475408+00:00</timeStamp>
+    <typeFullName>
+      <string>PathSplineTrack</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fef58bd01146344429d022b95c6af872</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/TestingUnitTests.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6495434+00:00</timeStamp>
+    <typeFullName>
+      <string>DentedPixel.LTExamples.TestingUnitTests</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ed8575995d061498aa84acbaf0b377de</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/TestingZLegacy.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6515446+00:00</timeStamp>
+    <typeFullName>
+      <string>TestingZLegacy</string>
+      <string>TestingZLegacy+NextFunc</string>
+      <string>TestingZLegacy+TimingType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c5a76b5b44fc4416a82391d1ab9ec33d</guid>
+    <fileName>Assets/LeanTween/Examples/Scripts/TestingZLegacyExt.cs</fileName>
+    <timeStamp>2022-12-14T08:26:11.6525453+00:00</timeStamp>
+    <typeFullName>
+      <string>TestingZLegacyExt</string>
+      <string>TestingZLegacyExt+NextFunc</string>
+      <string>TestingZLegacyExt+TimingType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>df7c2b77399872c40b48e8bfe6212cfe</guid>
+    <fileName>Assets/Third-Party/Effects/TinyFire VFX/LightControl.cs</fileName>
+    <timeStamp>2017-08-15T14:04:54+01:00</timeStamp>
+    <typeFullName>
+      <string>LightControl</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c4b3b6d1fa9161f469904c3df8bca8f1</guid>
+    <fileName>Assets/GD/Common/Scripts/Editor/CreateFolders.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.CreateFolders</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>15428a3231a783c48a411df93275cf85</guid>
+    <fileName>Assets/GD/Common/Scripts/Editor/ToggleInspectorLock.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.ToggleInspectorLock</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0e93c8e0d976d9244b50daa82f8ae6a9</guid>
+    <fileName>Assets/GD/Common/Scripts/Enums/AttackTargetType.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.AttackTargetType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ee2965aef7fd58a4c8d5de385870a486</guid>
+    <fileName>Assets/GD/Common/Scripts/Enums/AttackType.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.AttackType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b8a46e113223f81448237e19e939456f</guid>
+    <fileName>Assets/GD/Common/Scripts/Enums/AttributeType.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.AttributeType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9b9845953fbc2de45bd70476cf3ff9fa</guid>
+    <fileName>Assets/GD/Common/Scripts/Enums/ItemType.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.ItemType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>480c11770cd4bcf44af934bb6b7ec51b</guid>
+    <fileName>Assets/GD/Common/Scripts/Enums/PriorityType.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.PriorityType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fd3ed7723883d744da5a094243faeaad</guid>
+    <fileName>Assets/GD/Common/Scripts/Enums/VisibilityStrategyType.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.VisibilityStrategyType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>50c98801b8e45e44baf23665a308868f</guid>
+    <fileName>Assets/GD/Common/Scripts/Extensions/LayerMaskExtensions.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>LayerMaskExtensions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a5130ce1441c7a047a3787fc3af91828</guid>
+    <fileName>Assets/GD/Common/Scripts/Managers/GameManager.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.GameManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>94f20c933c1699f48a0a4bd68ba27573</guid>
+    <fileName>Assets/GD/Common/Scripts/Optimization/MeshCombiner.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.MeshCombiner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>29609a68ff5ddb747b42467f5f42af89</guid>
+    <fileName>Assets/GD/Examples/1. Scriptable Objects/Scripts/ColorBehaviour.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.5242248+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.Examples.ColorBehaviour</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1fe036d8dc7c74f4ba88809bb191564e</guid>
+    <fileName>Assets/GD/Examples/1. Scriptable Objects/Scripts/ColorParameter.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.525226+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.Examples.ColorParameter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b5fd873a05bcb094c9726d91af05701e</guid>
+    <fileName>Assets/GD/Examples/1. Scriptable Objects/Scripts/RotationBehaviour.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.5421602+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.Examples.RotationBehaviour</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5c4e18e26df545b4ca743632e63db287</guid>
+    <fileName>Assets/GD/Examples/1. Scriptable Objects/Scripts/RotationParameters.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.5437047+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.Examples.RotationParameters</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f749e6b3ac97b94489e22f2f0627e74c</guid>
+    <fileName>Assets/GD/Examples/3. Moving Objects/Scripts/RigidbodyAddForce.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.6588994+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.Examples.RigidbodyAddForce</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fa9d7feb33ccf7044ba8677b0f689850</guid>
+    <fileName>Assets/GD/Examples/3. Moving Objects/Scripts/RigidbodyMovePosition.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.6659077+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.Examples.RigidbodyMovePosition</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8b0cb2407b9e25e43b90912bf4440f51</guid>
+    <fileName>Assets/GD/Examples/3. Moving Objects/Scripts/RigidbodySetVelocity.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.6669088+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.Examples.RigidbodySetVelocity</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6ecf58982043b9d43af7ebb86e38f920</guid>
+    <fileName>Assets/GD/Examples/3. Moving Objects/Scripts/TransformSetPosition.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.667911+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.Examples.TransformSetPosition</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4fae178e02ff42a47958500406530977</guid>
+    <fileName>Assets/GD/Examples/3. Moving Objects/Scripts/TransformTranslate.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.6739151+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.Examples.TransformTranslate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b979d38bd8aec2343a46d34eff3f53e7</guid>
+    <fileName>Assets/GD/Examples/5. Time Tick System/Scripts/ColorToggleController.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.6819225+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.Examples.ColorToggleController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eb1a2de9e54b3e845a124006e7a910fa</guid>
+    <fileName>Assets/GD/Examples/6. Single Parameter Events/Scripts/MaterialChangeBehaviour.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.7029465+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.Examples.MaterialChangeBehaviour</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5c45b9d9e169fb54ba3a48d06c48a033</guid>
+    <fileName>Assets/Third-Party/Environment/SinuousShrooms/Scripts/CameraOrbit.cs</fileName>
+    <timeStamp>2016-02-28T04:43:37+00:00</timeStamp>
+    <typeFullName>
+      <string>CameraOrbit</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c52ceaec25f644448a4bbcdf3a34076e</guid>
+    <fileName>Assets/Third-Party/Environment/SinuousShrooms/Scripts/ConstantTransform.cs</fileName>
+    <timeStamp>2016-02-28T04:43:45+00:00</timeStamp>
+    <typeFullName>
+      <string>ConstantTransform</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>194f15e492b9db0488970f239f186272</guid>
+    <fileName>Assets/Third-Party/Environment/SinuousShrooms/Scripts/InputTransform.cs</fileName>
+    <timeStamp>2016-02-28T04:43:34+00:00</timeStamp>
+    <typeFullName>
+      <string>InputTransform</string>
+      <string>InputTransform+Keys</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a2fca92e2f7949848b53a14ccb429c58</guid>
+    <fileName>Assets/Third-Party/Environment/SinuousShrooms/Scripts/PrefabSwapper.cs</fileName>
+    <timeStamp>2016-02-28T04:43:41+00:00</timeStamp>
+    <typeFullName>
+      <string>PrefabSwapper</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dfc956cd1057bd14ca7ac8498609c426</guid>
+    <fileName>Assets/Third-Party/Environment/SinuousShrooms/Scripts/SmoothMouseLook.cs</fileName>
+    <timeStamp>2016-02-28T04:43:46+00:00</timeStamp>
+    <typeFullName>
+      <string>SmoothMouseLook</string>
+      <string>SmoothMouseLook+Axises</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1fee3f7dd64f0964f834feda5b02f20d</guid>
+    <fileName>Assets/GD/Common/Scripts/Controllers/Camera/SimpleCameraController.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>UnityTemplateProjects.SimpleCameraController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8f2cc4d55d9d9b54e83fff171c1d36a0</guid>
+    <fileName>Assets/GD/Common/Scripts/Controllers/Lighting/FlickerController.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.3751707+00:00</timeStamp>
+    <typeFullName>
+      <string>FlickerController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d58a6f96e089d444790d812830a7a6c2</guid>
+    <fileName>Assets/GD/Common/Scripts/Design Patterns/Singleton/Singleton.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.Singleton`1</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>866d9f1b9c7b4f2489927bf6a8c15a29</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Types/ReferenceTypes.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.4122038+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.ScriptableDataType`1</string>
+      <string>GD.BaseReference`1</string>
+      <string>GD.BoolReference</string>
+      <string>GD.IntReference</string>
+      <string>GD.FloatReference</string>
+      <string>GD.StringReference</string>
+      <string>GD.Vector3Reference</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>70b43f707b9338042b8f923e9bcbc225</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Types/ScriptableGameObject.cs</fileName>
+    <timeStamp>2022-10-24T09:08:21+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.ScriptableGameObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3d417b8533c73824a96e3e4e28bce9e8</guid>
+    <fileName>Assets/GD/Common/Scripts/Selection/Managers/SelectionManager.cs</fileName>
+    <timeStamp>2022-10-24T09:08:21+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.Selection.SelectionManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3fcad1f5091adff47a4ba90222da96e9</guid>
+    <fileName>Assets/GD/Common/Scripts/Selection/Managers/SimpleSelectionManager.cs</fileName>
+    <timeStamp>2022-10-24T09:08:21+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.Selection.SimpleSelectionManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>52396a5add2598f498c6ac764d9737df</guid>
+    <fileName>Assets/GD/Common/Scripts/Selection/Providers/GameObjectRayProvider.cs</fileName>
+    <timeStamp>2022-10-24T09:08:21+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.Selection.GameObjectRayProvider</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bbe29af43d9f75d43be019c35b931eba</guid>
+    <fileName>Assets/GD/Common/Scripts/Selection/Providers/IRayProvider.cs</fileName>
+    <timeStamp>2022-10-24T09:08:21+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.Selection.IRayProvider</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b790447134863a443bb1231332d17dc8</guid>
+    <fileName>Assets/GD/Common/Scripts/Selection/Providers/MouseScreenRayProvider.cs</fileName>
+    <timeStamp>2022-10-24T09:08:21+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.Selection.MouseScreenRayProvider</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>839f5c3bf52806446b48b124d92dee6d</guid>
+    <fileName>Assets/GD/Common/Scripts/Selection/Reponses/HighlightSelectionResponse.cs</fileName>
+    <timeStamp>2022-10-24T09:08:21+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.Selection.HighlightSelectionResponse</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1ec8e251aa9f23f4eb60d8617d221202</guid>
+    <fileName>Assets/GD/Common/Scripts/Selection/Reponses/ISelectionResponse.cs</fileName>
+    <timeStamp>2022-10-24T09:08:21+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.Selection.ISelectionResponse</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>47b69ba989418cc438a4b6727433885a</guid>
+    <fileName>Assets/GD/Common/Scripts/Selection/Reponses/SoundSelectionResponse.cs</fileName>
+    <timeStamp>2022-10-24T09:08:21+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.Selection.SoundSelectionResponse</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fa69c2cfec48f234483408f7c148c4df</guid>
+    <fileName>Assets/GD/Common/Scripts/Selection/Reponses/TargetSelectionResponse.cs</fileName>
+    <timeStamp>2022-10-24T09:08:21+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.Selection.TargetSelectionResponse</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3257cbdab09a1a945932035e060abc90</guid>
+    <fileName>Assets/GD/Common/Scripts/Selection/Selectors/ISelector.cs</fileName>
+    <timeStamp>2022-10-24T09:08:21+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.Selection.ISelector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>75b075e154eae1a4ca94630f03513967</guid>
+    <fileName>Assets/GD/Common/Scripts/Selection/Selectors/RayCastSelector.cs</fileName>
+    <timeStamp>2022-10-24T09:08:21+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.Selection.RayCastSelector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fdd47149551d546419fc5fa1f6b28535</guid>
+    <fileName>Assets/GD/Common/Scripts/Selection/Selectors/SphereCastSelector.cs</fileName>
+    <timeStamp>2022-10-24T09:08:21+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.Selection.SphereCastSelector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a73a025052052f84a86629c724ec783d</guid>
+    <fileName>Assets/GD/Common/Scripts/Time/Tick/IHandleTicks.cs</fileName>
+    <timeStamp>2022-10-24T09:08:21+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.IHandleTicks</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>117d69e5615d2904f810a27afd9d6564</guid>
+    <fileName>Assets/GD/Common/Scripts/Time/Tick/TimeTickSystem.cs</fileName>
+    <timeStamp>2022-10-24T09:08:21+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.TimeTickSystem</string>
+      <string>GD.TimeTickSystem+TickRateMultiplierType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>407cfb606d08ecc47be4db1aa03a56fd</guid>
+    <fileName>Assets/GD/Common/Scripts/Design Patterns/Events/Multi-parameter/BaseGameEvent.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.Events.BaseGameEvent`1</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>af6e0d170c8ea3840823408e7fb3f2f3</guid>
+    <fileName>Assets/GD/Common/Scripts/Design Patterns/Events/Multi-parameter/BaseGameEventListener.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.Events.BaseGameEventListener`3</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>374b874ed6671e047b5915481194c39f</guid>
+    <fileName>Assets/GD/Common/Scripts/Design Patterns/Events/Multi-parameter/IGameEventListener.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.Events.IGameEventListener`1</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>891baf0ba4c569646a3b1841d4cb922d</guid>
+    <fileName>Assets/GD/Common/Scripts/Design Patterns/Events/Zero-parameter/GameEvent.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.GameEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>26ddd383a0396fc458ffbf018bb57463</guid>
+    <fileName>Assets/GD/Common/Scripts/Design Patterns/Events/Zero-parameter/GameEventListener.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.GameEventListener</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6ce920c6ab303524391361b719bbe00c</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Objects/Base/BaseObject.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.BaseObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7960d3aeeef880f43bb96d50a2dde910</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Objects/Base/BaseObjectData.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.BaseObjectData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cc248fbecacd9f54fa2212f5d213df55</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Objects/Consumable/ConsumableObject.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.ConsumableObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9caca661463c8cf4f933fdd975139d0c</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Objects/Consumable/ConsumableObjectData.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.ConsumableObjectData</string>
+      <string>GD.ItemBuff</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>27d9be7ad1597d14e9eb4a7382b197b1</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Objects/Game/GameLayout.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.GameLayout</string>
+      <string>GD.GameLayout+LifecycleStage</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9076ab6fc12677346aaed9bac112ec26</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Objects/Game/GameLevel.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.GameLevel</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bc5636a9607183142a682d7f86853180</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Objects/Game/GameObjective.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.GameObjective</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>da69e8839c7e9964cb77fce5c0f692a6</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Objects/Game/GameScene.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.3841784+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.GameScene</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6a9501de5ecddcf4d8acbadd28ff8bfd</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Objects/Interactable/InteractableObject.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.InteractableObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>209d3f117eb8d094eb7e4039dcd517ba</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Objects/Interactable/InteractableObjectData.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.InteractableObjectData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e1ae2aba408fa974ebe705b053aa6cf2</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Objects/Inventory/InventoryData.cs</fileName>
+    <timeStamp>2022-10-24T09:08:20+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.InventoryData</string>
+      <string>GD.InventoryItem</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7650590404e01904ea808f295a72dcb5</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Objects/Placeable/PlaceableObject.cs</fileName>
+    <timeStamp>2022-10-24T09:08:21+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.PlaceableObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c52ca1f63190a8a47bd54fa3fa815147</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Objects/Placeable/PlaceableObjectData.cs</fileName>
+    <timeStamp>2022-10-24T09:08:21+01:00</timeStamp>
+    <typeFullName>
+      <string>GD.PlaceableObjectData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b203cba963d09e440ab7393c47c72301</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Types/Variables/BoolVariable.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.4130371+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.BoolVariable</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c7734262a5e9bf743ac7c7297712fdc7</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Types/Variables/FloatVariable.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.4139942+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.FloatVariable</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a9ba34b96fa30204ab6f48fe20e34035</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Types/Variables/GameObjectVariable.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.4149952+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.ScriptableTypes.GameObjectVariable</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8d71332fa8044b44d9f5206559d30f3b</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Types/Variables/IntVariable.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.4240031+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.IntVariable</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d46d3d5b95b7e3640b61244b54c82dc1</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Types/Variables/StringVariable.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.4250044+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.StringVariable</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0c96954cbc438f740b294cb6a62584ab</guid>
+    <fileName>Assets/GD/Common/Scripts/ScriptableObject/Types/Variables/Vector3Variable.cs</fileName>
+    <timeStamp>2022-12-14T08:26:10.4410191+00:00</timeStamp>
+    <typeFullName>
+      <string>GD.Vector3Variable</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d48863a3e3916df408151fabe9130598</guid>
+    <fileName>Assets/Third-Party/Characters/Polytope Studio/Lowpoly Medieval Characters/Sources/Scripts/PT_Create_Prefab.cs</fileName>
+    <timeStamp>2021-11-25T17:35:57+00:00</timeStamp>
+    <typeFullName>
+      <string>Polytope.PT_Create_Prefab</string>
+      <string>Polytope.PT_Create_Prefab+PreviewCallback</string>
+      <string>Polytope.PT_Create_Prefab+TypeOfMesh</string>
+      <string>Polytope.PT_Create_Prefab+ShaderProperties_C</string>
+      <string>Polytope.PT_Create_Prefab+ShaderProperties_CI</string>
+      <string>Polytope.PT_Create_Prefab+ShaderProperties_CS</string>
+      <string>Polytope.PT_Create_Prefab+ShaderProperties_CSM</string>
+      <string>Polytope.PT_Create_Prefab+ShaderProperties_CSP</string>
+      <string>Polytope.PT_Create_Prefab+MeshType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>08d6341968358694e81b5e6a039178b9</guid>
+    <fileName>Assets/Third-Party/Characters/Polytope Studio/Lowpoly Medieval Characters/Sources/Scripts/Editor/PT_Create_Prefab_Editor.cs</fileName>
+    <timeStamp>2021-11-25T17:35:11+00:00</timeStamp>
+    <typeFullName>
+      <string>Polytope.PT_Create_Prefab_Editor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>
