@@ -11,8 +11,21 @@ public class GateOpenTrigger : MonoBehaviour
     [SerializeField]
     private GameObject conversant;
 
+    [SerializeField]
+    private GameObject outsideTrigger;
+
     private void OnTriggerEnter()
     {
-        DialogueManager.StartConversation("Gate Event", actor.transform, conversant.transform);
+        bool doesGateOpen = DialogueLua.GetVariable("HasKey").asBool;
+        if (!doesGateOpen)
+        {
+            DialogueManager.StartConversation("Gate Event", actor.transform, conversant.transform);
+        }
+        else
+        {
+            LeanTween.moveY(conversant, 6f, 1f);
+            FindObjectOfType<AudioManager>().Play("Gate Opening");
+            outsideTrigger.SetActive(true);
+        }
     }
 }

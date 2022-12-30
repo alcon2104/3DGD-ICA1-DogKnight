@@ -5,7 +5,7 @@ public class OutsideTrigger : MonoBehaviour
 {
     public GameObject blackScreen;
 
-    private void OnTriggerEnter()
+    public void OnTriggerEnter()
     {
         blackScreen.SetActive(true);
         SceneManager.LoadScene("OutsideScene");
