@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//Code found from Gabriel Aguiar Prod.: 'Unity 2018 - Game VFX - Shatter / Destroy / Explode Objects Tutorial' accessed December 19th 2022 (https://www.youtube.com/watch?v=w4aMtKeD2w4&ab_channel=GabrielAguiarProd.)
 public class BreakObjectBehaviour : MonoBehaviour
 {
     [SerializeField]

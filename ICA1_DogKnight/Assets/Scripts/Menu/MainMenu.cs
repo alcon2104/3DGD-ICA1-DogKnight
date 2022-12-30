@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+//Code found from Brackeys: 'START MENU in Unity' accessed October 30th 2022 (https://www.youtube.com/watch?v=zc8ac_qUXQY&ab_channel=Brackeys)
 public class MainMenu : MonoBehaviour
 {
     public void PlayGame()
