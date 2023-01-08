@@ -79,7 +79,7 @@ namespace GD.Controllers
         {
             yield return new WaitForSeconds(0.1f);
             isAttacking = true;
-            FindObjectOfType<AudioManager>().Play("SwordSwing");
+            FindObjectOfType<AudioManager>().Play("Sword Swing");
         }
 
         /// <summary>
