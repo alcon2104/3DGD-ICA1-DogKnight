@@ -31,6 +31,7 @@ public class PickupTrigger : MonoBehaviour
             }
 
             Destroy(gameObject);
+            FindObjectOfType<AudioManager>().Play("Item");
         }
     }
 }
