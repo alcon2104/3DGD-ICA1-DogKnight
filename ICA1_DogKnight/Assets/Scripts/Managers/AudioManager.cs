@@ -1,10 +1,8 @@
-using UnityEngine.Audio;
 using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.UIElements;
 
-//Code found from Brackeys: 'START MENU in Unity' accessed December 21st 2022 (https://www.youtube.com/watch?v=6OT43pvUyfY&ab_channel=Brackeys)
+//Code found from Brackeys: 'Introduction to AUDIO in Unity' accessed December 21st 2022 (https://www.youtube.com/watch?v=6OT43pvUyfY&ab_channel=Brackeys)
 public class AudioManager : MonoBehaviour
 {
     public Sound[] sounds;
