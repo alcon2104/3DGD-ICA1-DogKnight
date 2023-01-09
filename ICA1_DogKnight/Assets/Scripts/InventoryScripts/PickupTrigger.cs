@@ -1,3 +1,4 @@
+using PixelCrushers.DialogueSystem;
 using UnityEngine;
 
 public class PickupTrigger : MonoBehaviour
@@ -16,6 +17,19 @@ public class PickupTrigger : MonoBehaviour
         if(other.tag == activationTag && activationLayer.OnLayer(other.gameObject) && other.gameObject.name.Contains("Player"))
         {
             Inventory.instance.Add(item);
+            if (gameObject.name.Contains("Candle"))
+            {
+                bool hasWax = DialogueLua.GetVariable("HasWax").AsBool;
+                hasWax = true;
+                DialogueLua.SetVariable("HasWax", hasWax);
+            }
+            else if(gameObject.name.Contains("Flower"))
+            {
+                int flowers = DialogueLua.GetVariable("FlowersCollected").AsInt;
+                flowers++;
+                DialogueLua.SetVariable("FlowersCollected", flowers);
+            }
+
             Destroy(gameObject);
         }
     }

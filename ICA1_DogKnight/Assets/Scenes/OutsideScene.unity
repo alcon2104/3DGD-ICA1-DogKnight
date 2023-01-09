@@ -1332,7 +1332,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 099542002c742ce498d418ba92856d5e, type: 2}
     - target: {fileID: 919132149155446097, guid: 6d118a865ee8de44bb4a120a3f13630e, type: 3}
       propertyPath: m_Name
-      value: Props_Flower_2
+      value: Golden_Flower
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6d118a865ee8de44bb4a120a3f13630e, type: 3}
       propertyPath: m_TagString
@@ -2145,7 +2145,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: c53e2ff4f6c79fa4c9721a1cbacf11ba, type: 3}
       propertyPath: m_Name
-      value: MARMO LOD1
+      value: Marmo_Flower
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: c53e2ff4f6c79fa4c9721a1cbacf11ba, type: 3}
       propertyPath: m_TagString
@@ -2490,7 +2490,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1f5ec413581414c4d94988ec0ac68f67, type: 3}
       propertyPath: m_Name
-      value: Plant007
+      value: Nightsky_Flower
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1f5ec413581414c4d94988ec0ac68f67, type: 3}
       propertyPath: m_TagString
@@ -6917,7 +6917,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 0799a1e95665ef14f8fe2cbcd4ba3dc4, type: 2}
     - target: {fileID: 919132149155446097, guid: 46d171de72518e343891c4b4c03e5103, type: 3}
       propertyPath: m_Name
-      value: PP_Hyacinth_04
+      value: Hyacinth_Flower
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 46d171de72518e343891c4b4c03e5103, type: 3}
       propertyPath: m_TagString
