@@ -1,8 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class DisappearTrigger : MonoBehaviour
+public class PickupTrigger : MonoBehaviour
 {
     [SerializeField]
     [Tooltip("Specify the tag that triggers this behaviour")]
@@ -11,11 +9,14 @@ public class DisappearTrigger : MonoBehaviour
     [SerializeField]
     private LayerMask activationLayer;
 
+    public Item item;
+
     private void OnTriggerEnter(Collider other)
     {
-        if(other.tag == activationTag && activationLayer.OnLayer(other.gameObject) && other.gameObject.name == "Player")
+        if(other.tag == activationTag && activationLayer.OnLayer(other.gameObject) && other.gameObject.name.Contains("Player"))
         {
-            gameObject.SetActive(false);
+            Inventory.instance.Add(item);
+            Destroy(gameObject);
         }
     }
 }
