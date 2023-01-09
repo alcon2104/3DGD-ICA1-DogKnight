@@ -450,15 +450,15 @@ MonoBehaviour:
         destinationDialogueID: 3
         isConnector: 0
         priority: 2
-      conditionsString: CurrentQuestState("Bring Wax to the Blacksmith") == "unassigned"
+      conditionsString: 
       userScript: 
       onExecute:
         m_PersistentCalls:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 75
-        y: 70
+        x: 63.297874
+        y: 75.31915
         width: 160
         height: 30
     - id: 2
@@ -735,7 +735,7 @@ MonoBehaviour:
         destinationDialogueID: 8
         isConnector: 0
         priority: 2
-      conditionsString: 
+      conditionsString: CurrentQuestState("Bring Wax to the Blacksmith") == "unassigned"
       userScript: 
       onExecute:
         m_PersistentCalls:
@@ -1055,6 +1055,10 @@ MonoBehaviour:
         typeString: 
       - title: Sequence
         value: 
+        type: 0
+        typeString: 
+      - title: EventGuid
+        value: 1c7d293c-871e-4cfc-9d61-24c516dd4334
         type: 0
         typeString: 
       conversationID: 1
@@ -1529,11 +1533,11 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Description
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Actor
         value: 2
         type: 5
@@ -1545,13 +1549,17 @@ MonoBehaviour:
       - title: Menu Text
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: Aha! There you are, m'boy! Don't go rustin' that one up any time soon!
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Sequence
         value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: EventGuid
+        value: 9cd34248-9459-4021-bdec-6417c1198304
         type: 0
         typeString: 
       conversationID: 1
@@ -1569,10 +1577,7 @@ MonoBehaviour:
         isConnector: 0
         priority: 2
       conditionsString: 
-      userScript: 'SetQuestState("Find A New Key To Unlock the Castle Gate", "success");
-
-        Variable["HasKey"]
-        = true'
+      userScript: SetQuestState("Find A New Key To Unlock the Castle Gate", "success")
       onExecute:
         m_PersistentCalls:
           m_Calls: []
@@ -1583,8 +1588,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 413.53488, y: 441.60522}
-    canvasZoom: 1.06
+    canvasScrollPosition: {x: 57.954468, y: 421.5564}
+    canvasZoom: 0.8800001
   - id: 3
     fields:
     - title: Title
@@ -2242,9 +2247,8 @@ MonoBehaviour:
         destinationDialogueID: 22
         isConnector: 0
         priority: 2
-      conditionsString: if(CurrentQuestState("Get Babies") == "active"){SetQuestState("Get
-        Babies", "success")}
-      userScript: 
+      conditionsString: 
+      userScript: SetQuestState("Find Help From Civilians", "active")
       onExecute:
         m_PersistentCalls:
           m_Calls: []

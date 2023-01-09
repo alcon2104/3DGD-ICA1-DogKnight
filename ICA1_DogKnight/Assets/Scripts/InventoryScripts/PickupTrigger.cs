@@ -23,7 +23,13 @@ public class PickupTrigger : MonoBehaviour
                 hasWax = true;
                 DialogueLua.SetVariable("HasWax", hasWax);
             }
-            else if(gameObject.name.Contains("Flower"))
+            else if (gameObject.name.Contains("Key"))
+            {
+                bool hasKey = DialogueLua.GetVariable("HasKey").AsBool;
+                hasKey = true;
+                DialogueLua.SetVariable("HasKey", hasKey);
+            }
+            else if (gameObject.name.Contains("Flower"))
             {
                 int flowers = DialogueLua.GetVariable("FlowersCollected").AsInt;
                 flowers++;
