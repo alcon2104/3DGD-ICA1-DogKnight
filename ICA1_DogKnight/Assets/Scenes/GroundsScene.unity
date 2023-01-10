@@ -14584,10 +14584,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogueEntrySceneEvents:
-  - guid: 1c7d293c-871e-4cfc-9d61-24c516dd4334
-    onExecute:
-      m_PersistentCalls:
-        m_Calls: []
   - guid: 9cd34248-9459-4021-bdec-6417c1198304
     onExecute:
       m_PersistentCalls:
@@ -14596,6 +14592,22 @@ MonoBehaviour:
           m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_MethodName: SetActive
           m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
+          m_CallState: 2
+  - guid: 035204cf-3611-4190-9be1-d9dfef9234f3
+    onExecute:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 816740058}
+          m_TargetAssemblyTypeName: GateOpenTrigger, Assembly-CSharp
+          m_MethodName: OpenGate
+          m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine

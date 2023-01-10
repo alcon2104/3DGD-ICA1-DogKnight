@@ -450,7 +450,7 @@ MonoBehaviour:
         destinationDialogueID: 3
         isConnector: 0
         priority: 2
-      conditionsString: 
+      conditionsString: CurrentQuestState("Bring Wax to the Blacksmith") == "unassigned"
       userScript: 
       onExecute:
         m_PersistentCalls:
@@ -735,7 +735,7 @@ MonoBehaviour:
         destinationDialogueID: 8
         isConnector: 0
         priority: 2
-      conditionsString: CurrentQuestState("Bring Wax to the Blacksmith") == "unassigned"
+      conditionsString: 
       userScript: 
       onExecute:
         m_PersistentCalls:
@@ -901,7 +901,10 @@ MonoBehaviour:
         isConnector: 0
         priority: 2
       conditionsString: 
-      userScript: SetQuestState("Bring Wax to the Blacksmith", "active")
+      userScript: 'SetQuestState("Bring Wax to the Blacksmith", "active");
+
+        SetQuestState("Find
+        Help From Civilians", "success")'
       onExecute:
         m_PersistentCalls:
           m_Calls: []
@@ -1007,24 +1010,24 @@ MonoBehaviour:
       - originConversationID: 1
         originDialogueID: 11
         destinationConversationID: 1
-        destinationDialogueID: 12
+        destinationDialogueID: 13
         isConnector: 0
         priority: 2
       - originConversationID: 1
         originDialogueID: 11
         destinationConversationID: 1
-        destinationDialogueID: 13
+        destinationDialogueID: 22
         isConnector: 0
         priority: 2
-      conditionsString: 
-      userScript: CurrentQuestState("Bring Wax to the Blacksmith") == "active"
+      conditionsString: CurrentQuestState("Bring Wax to the Blacksmith") == "active"
+      userScript: 
       onExecute:
         m_PersistentCalls:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 612.391
-        y: 65.65219
+        x: 608.2814
+        y: 67.02205
         width: 160
         height: 30
     - id: 12
@@ -1058,7 +1061,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: EventGuid
-        value: 1c7d293c-871e-4cfc-9d61-24c516dd4334
+        value: 
         type: 0
         typeString: 
       conversationID: 1
@@ -1587,9 +1590,64 @@ MonoBehaviour:
         y: 533.5979
         width: 160
         height: 30
+    - id: 22
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 2
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Arf... (Yes yes, I remember...)
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 22
+        destinationConversationID: 1
+        destinationDialogueID: 12
+        isConnector: 0
+        priority: 2
+      conditionsString: Variable["HasWax"] == false
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 555.2054
+        y: 242.60269
+        width: 160
+        height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 57.954468, y: 421.5564}
-    canvasZoom: 0.8800001
+    canvasScrollPosition: {x: 41.319664, y: 160.76192}
+    canvasZoom: 0.7600002
   - id: 3
     fields:
     - title: Title
@@ -2454,16 +2512,18 @@ MonoBehaviour:
         destinationDialogueID: 2
         isConnector: 0
         priority: 2
-      conditionsString: CurrentQuestState("Find A New Key To Unlock the Castle Gate")
-        == "unassigned"
+      conditionsString: 'CurrentQuestState("Find A New Key To Unlock the Castle Gate")
+        == "unassigned";
+
+        Variable["HasKey"] == false'
       userScript: 
       onExecute:
         m_PersistentCalls:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 30
-        y: 70
+        x: 32.5
+        y: 72.5
         width: 160
         height: 30
     - id: 2
@@ -2509,6 +2569,12 @@ MonoBehaviour:
         originDialogueID: 2
         destinationConversationID: 4
         destinationDialogueID: 3
+        isConnector: 0
+        priority: 2
+      - originConversationID: 4
+        originDialogueID: 2
+        destinationConversationID: 4
+        destinationDialogueID: 8
         isConnector: 0
         priority: 2
       conditionsString: 
@@ -2567,7 +2633,7 @@ MonoBehaviour:
         destinationDialogueID: 4
         isConnector: 0
         priority: 2
-      conditionsString: 
+      conditionsString: Variable["HasKey"] == false
       userScript: 
       onExecute:
         m_PersistentCalls:
@@ -2682,9 +2748,184 @@ MonoBehaviour:
         y: 269.02914
         width: 160
         height: 30
+    - id: 6
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Description
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Actor
+        value: 4
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Dialogue Text
+        value: With your newfound key, the gate slowly rises for you...
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      conversationID: 4
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 4
+        originDialogueID: 6
+        destinationConversationID: 4
+        destinationDialogueID: 7
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 221.17691
+        y: 216.93764
+        width: 160
+        height: 30
+    - id: 7
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 4
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      - title: EventGuid
+        value: 035204cf-3611-4190-9be1-d9dfef9234f3
+        type: 0
+        typeString: 
+      conversationID: 4
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls:
+          - m_Target: {fileID: 0}
+            m_TargetAssemblyTypeName: 
+            m_MethodName: 
+            m_Mode: 1
+            m_Arguments:
+              m_ObjectArgument: {fileID: 0}
+              m_ObjectArgumentAssemblyTypeName: 
+              m_IntArgument: 0
+              m_FloatArgument: 0
+              m_StringArgument: 
+              m_BoolArgument: 0
+            m_CallState: 2
+      canvasRect:
+        serializedVersion: 2
+        x: 219.16977
+        y: 267.9412
+        width: 160
+        height: 30
+    - id: 8
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 4
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: '[Good thing I went and got that new key casted!]'
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 4
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 4
+        originDialogueID: 8
+        destinationConversationID: 4
+        destinationDialogueID: 6
+        isConnector: 0
+        priority: 2
+      conditionsString: Variable["HasKey"] == true
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 215.07455
+        y: 167.01491
+        width: 160
+        height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 0, y: 79.5943}
-    canvasZoom: 1.1199999
+    canvasScrollPosition: {x: 37.696167, y: 114.50148}
+    canvasZoom: 0.8500001
   syncInfo:
     syncActors: 0
     syncItems: 0
