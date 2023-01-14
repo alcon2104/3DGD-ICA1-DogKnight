@@ -3,6 +3,7 @@ using GD.Selection;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.AI;
+using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 
 /// <summary>
@@ -118,6 +119,9 @@ namespace GD.Controllers
         /// </summary>
         private void Update()
         {
+            if (EventSystem.current.IsPointerOverGameObject())
+                return;
+
             if (Vector3.Distance(navMeshAgent.destination, transform.position)
                 <= navMeshAgent.stoppingDistance)
             {
