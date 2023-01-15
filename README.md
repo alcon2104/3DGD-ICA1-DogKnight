@@ -3,3 +3,6 @@ Welcome to the GitHub repository for DogKnight - a short adventure game where a 
 
 A cover sheet for this project can be found here:
 [3DGD_ICA1_CoverSheet.pdf](https://github.com/alcon2104/3DGD-ICA1-DogKnight/files/10420279/3DGD_ICA1_CoverSheet.pdf)
+
+A list of third-party assets used in the project can be found here:
+[3DGD_ICA1_ThirdPartyAssets_AlexConnolly.txt](https://github.com/alcon2104/3DGD-ICA1-DogKnight/files/10420456/3DGD_ICA1_ThirdPartyAssets_AlexConnolly.txt)
